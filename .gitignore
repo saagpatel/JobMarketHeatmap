@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Tauri
+src-tauri/target/
+src-tauri/binaries/main-*
+src-tauri/gen/
+
+# Python sidecar
+sidecar/.venv/
+sidecar/__pycache__/
+sidecar/**/__pycache__/
+sidecar/*.spec
+sidecar/build/
+sidecar/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment (dev only — credentials must NEVER be committed)
+.env
+.env.local
