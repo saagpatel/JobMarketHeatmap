@@ -1,0 +1,82 @@
+{
+	"results": [
+		{
+			"id": 4012345678,
+			"title": "Senior Software Engineer",
+			"company": {
+				"display_name": "Acme Corp"
+			},
+			"location": {
+				"area": ["US", "California", "San Francisco"],
+				"latitude": 37.7749,
+				"longitude": -122.4194
+			},
+			"salary_min": 140000,
+			"salary_max": 180000,
+			"description": "We are looking for a senior software engineer with Python and Kubernetes experience.",
+			"created": "2024-11-15T10:30:00Z"
+		},
+		{
+			"id": 4012345679,
+			"title": "Data Scientist",
+			"company": {
+				"display_name": "DataWorks Inc"
+			},
+			"location": {
+				"area": ["US", "New York", "New York City"],
+				"latitude": 40.7128,
+				"longitude": -74.006
+			},
+			"salary_min": 120000,
+			"salary_max": null,
+			"description": "Join our ML team. Experience with TensorFlow and statistical modeling required.",
+			"created": "2024-11-14T08:00:00Z"
+		},
+		{
+			"id": 4012345680,
+			"title": "DevOps Engineer",
+			"company": null,
+			"location": {
+				"area": ["US", "Texas"],
+				"latitude": 30.2672,
+				"longitude": -97.7431
+			},
+			"description": "Manage CI/CD pipelines, Docker, and AWS infrastructure.",
+			"created": "2024-11-13T14:20:00Z"
+		},
+		{
+			"id": 4012345681,
+			"title": "Product Manager",
+			"company": {
+				"display_name": "StartupXYZ"
+			},
+			"location": {
+				"area": ["US"],
+				"latitude": null,
+				"longitude": null
+			},
+			"salary_min": null,
+			"salary_max": 160000,
+			"description": "Lead product strategy for our SaaS platform. Agile experience preferred.",
+			"created": "2024-11-12T09:15:00Z"
+		},
+		{
+			"id": 4012345682,
+			"title": "IT Support Specialist",
+			"company": {
+				"display_name": "BigOrg LLC"
+			},
+			"location": {
+				"area": [],
+				"latitude": null,
+				"longitude": null
+			},
+			"salary_min": 55000,
+			"salary_max": 72000,
+			"description": "Provide desktop support and troubleshoot network issues. Active Directory knowledge a plus.",
+			"created": "2024-11-11T16:45:00Z"
+		}
+	],
+	"count": 5,
+	"mean": 110000
+}

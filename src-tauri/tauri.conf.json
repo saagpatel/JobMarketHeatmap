@@ -10,7 +10,6 @@
 		"frontendDist": "../dist"
 	},
 	"app": {
-		"title": "Job Market Heatmap",
 		"windows": [
 			{
 				"title": "Job Market Heatmap",
@@ -25,6 +24,7 @@
 	"bundle": {
 		"active": true,
 		"targets": "all",
+		"externalBin": ["binaries/main"],
 		"icon": [
 			"icons/32x32.png",
 			"icons/128x128.png",
