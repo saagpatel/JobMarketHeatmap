@@ -1,0 +1,4214 @@
+[
+  {
+    "preferred_label": "A/B testing",
+    "alt_labels": [
+      "AB testing",
+      "Split testing",
+      "A/B experimentation"
+    ]
+  },
+  {
+    "preferred_label": "Active Directory",
+    "alt_labels": [
+      "AD",
+      "Microsoft Active Directory",
+      "LDAP Active Directory"
+    ]
+  },
+  {
+    "preferred_label": "Agile methodology",
+    "alt_labels": [
+      "Agile",
+      "Agile development",
+      "Agile software development",
+      "Agile methodologies"
+    ]
+  },
+  {
+    "preferred_label": "Agora",
+    "alt_labels": [
+      "Agora.io",
+      "Agora RTC"
+    ]
+  },
+  {
+    "preferred_label": "Airflow",
+    "alt_labels": [
+      "Apache Airflow",
+      "Airflow DAG",
+      "Airflow orchestration"
+    ]
+  },
+  {
+    "preferred_label": "Akamai",
+    "alt_labels": [
+      "Akamai CDN",
+      "Akamai Technologies"
+    ]
+  },
+  {
+    "preferred_label": "Akka",
+    "alt_labels": [
+      "Akka framework",
+      "Akka toolkit",
+      "Akka actors"
+    ]
+  },
+  {
+    "preferred_label": "Alertmanager",
+    "alt_labels": [
+      "Prometheus Alertmanager",
+      "Alert Manager"
+    ]
+  },
+  {
+    "preferred_label": "Algorithm design",
+    "alt_labels": [
+      "Algorithms",
+      "Algorithm development",
+      "Algorithmic thinking",
+      "Data structures and algorithms"
+    ]
+  },
+  {
+    "preferred_label": "Amazon API Gateway",
+    "alt_labels": [
+      "API Gateway",
+      "AWS API Gateway"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Athena",
+    "alt_labels": [
+      "Athena",
+      "AWS Athena"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Aurora",
+    "alt_labels": [
+      "Aurora",
+      "Aurora DB",
+      "AWS Aurora",
+      "Amazon Aurora database"
+    ]
+  },
+  {
+    "preferred_label": "Amazon CloudFormation",
+    "alt_labels": [
+      "CloudFormation",
+      "AWS CloudFormation",
+      "CFN"
+    ]
+  },
+  {
+    "preferred_label": "Amazon CloudFront",
+    "alt_labels": [
+      "CloudFront",
+      "AWS CloudFront"
+    ]
+  },
+  {
+    "preferred_label": "Amazon CloudWatch",
+    "alt_labels": [
+      "CloudWatch",
+      "AWS CloudWatch"
+    ]
+  },
+  {
+    "preferred_label": "Amazon CodeBuild",
+    "alt_labels": [
+      "CodeBuild",
+      "AWS CodeBuild"
+    ]
+  },
+  {
+    "preferred_label": "Amazon CodeDeploy",
+    "alt_labels": [
+      "CodeDeploy",
+      "AWS CodeDeploy"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Cognito",
+    "alt_labels": [
+      "Cognito",
+      "AWS Cognito"
+    ]
+  },
+  {
+    "preferred_label": "Amazon DocumentDB",
+    "alt_labels": [
+      "DocumentDB",
+      "AWS DocumentDB"
+    ]
+  },
+  {
+    "preferred_label": "Amazon DynamoDB",
+    "alt_labels": [
+      "DynamoDB",
+      "AWS DynamoDB",
+      "Dynamo DB"
+    ]
+  },
+  {
+    "preferred_label": "Amazon ECR",
+    "alt_labels": [
+      "ECR",
+      "Elastic Container Registry",
+      "AWS ECR"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Elastic Beanstalk",
+    "alt_labels": [
+      "Elastic Beanstalk",
+      "AWS Beanstalk",
+      "EB"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Elastic Compute Cloud",
+    "alt_labels": [
+      "EC2",
+      "AWS EC2",
+      "Amazon EC2",
+      "Elastic Compute Cloud"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Elastic Container Service",
+    "alt_labels": [
+      "ECS",
+      "AWS ECS",
+      "Amazon ECS"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Elastic Kubernetes Service",
+    "alt_labels": [
+      "EKS",
+      "AWS EKS",
+      "Amazon EKS"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Elastic Load Balancing",
+    "alt_labels": [
+      "ELB",
+      "ALB",
+      "AWS ELB",
+      "Application Load Balancer"
+    ]
+  },
+  {
+    "preferred_label": "Amazon ElastiCache",
+    "alt_labels": [
+      "ElastiCache",
+      "AWS ElastiCache"
+    ]
+  },
+  {
+    "preferred_label": "Amazon EMR",
+    "alt_labels": [
+      "EMR",
+      "Elastic MapReduce",
+      "AWS EMR"
+    ]
+  },
+  {
+    "preferred_label": "Amazon EventBridge",
+    "alt_labels": [
+      "EventBridge",
+      "AWS EventBridge"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Fargate",
+    "alt_labels": [
+      "Fargate",
+      "AWS Fargate"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Glue",
+    "alt_labels": [
+      "Glue",
+      "AWS Glue",
+      "Glue ETL"
+    ]
+  },
+  {
+    "preferred_label": "Amazon IAM",
+    "alt_labels": [
+      "AWS IAM",
+      "IAM roles",
+      "AWS Identity and Access Management"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Kinesis",
+    "alt_labels": [
+      "Kinesis",
+      "AWS Kinesis",
+      "Kinesis Data Streams"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Lambda",
+    "alt_labels": [
+      "Lambda",
+      "AWS Lambda",
+      "Lambda functions",
+      "Serverless Lambda"
+    ]
+  },
+  {
+    "preferred_label": "Amazon MSK",
+    "alt_labels": [
+      "MSK",
+      "AWS MSK",
+      "Managed Streaming for Kafka"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Neptune",
+    "alt_labels": [
+      "Neptune",
+      "AWS Neptune"
+    ]
+  },
+  {
+    "preferred_label": "Amazon OpenSearch",
+    "alt_labels": [
+      "OpenSearch",
+      "AWS OpenSearch",
+      "Amazon Elasticsearch Service"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Redshift",
+    "alt_labels": [
+      "Redshift",
+      "AWS Redshift",
+      "Amazon Redshift database"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Relational Database Service",
+    "alt_labels": [
+      "RDS",
+      "AWS RDS",
+      "Amazon RDS"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Route 53",
+    "alt_labels": [
+      "Route 53",
+      "AWS Route 53",
+      "Route53"
+    ]
+  },
+  {
+    "preferred_label": "Amazon S3",
+    "alt_labels": [
+      "S3",
+      "AWS S3",
+      "Simple Storage Service",
+      "S3 bucket"
+    ]
+  },
+  {
+    "preferred_label": "Amazon SageMaker",
+    "alt_labels": [
+      "SageMaker",
+      "AWS SageMaker"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Secrets Manager",
+    "alt_labels": [
+      "Secrets Manager",
+      "AWS Secrets Manager"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Simple Notification Service",
+    "alt_labels": [
+      "SNS",
+      "AWS SNS",
+      "Amazon SNS"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Simple Queue Service",
+    "alt_labels": [
+      "SQS",
+      "AWS SQS",
+      "Amazon SQS"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Step Functions",
+    "alt_labels": [
+      "Step Functions",
+      "AWS Step Functions"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Virtual Private Cloud",
+    "alt_labels": [
+      "VPC",
+      "AWS VPC",
+      "Amazon VPC",
+      "Virtual Private Cloud"
+    ]
+  },
+  {
+    "preferred_label": "Amazon WAF",
+    "alt_labels": [
+      "WAF",
+      "AWS WAF",
+      "Web Application Firewall"
+    ]
+  },
+  {
+    "preferred_label": "Amazon Web Services",
+    "alt_labels": [
+      "AWS",
+      "Amazon Cloud",
+      "Amazon Web Services (AWS)"
+    ]
+  },
+  {
+    "preferred_label": "Android development",
+    "alt_labels": [
+      "Android",
+      "Android SDK",
+      "Android app development",
+      "Android programming"
+    ]
+  },
+  {
+    "preferred_label": "Angular",
+    "alt_labels": [
+      "AngularJS",
+      "Angular 2+",
+      "Angular framework",
+      "Angular.js"
+    ]
+  },
+  {
+    "preferred_label": "Ansible",
+    "alt_labels": [
+      "Ansible automation",
+      "Ansible playbooks",
+      "Red Hat Ansible"
+    ]
+  },
+  {
+    "preferred_label": "Ant Design",
+    "alt_labels": [
+      "AntD",
+      "Ant Design React"
+    ]
+  },
+  {
+    "preferred_label": "Apache Beam",
+    "alt_labels": [
+      "Beam",
+      "Apache Beam SDK"
+    ]
+  },
+  {
+    "preferred_label": "Apache Camel",
+    "alt_labels": [
+      "Camel",
+      "Apache Camel integration"
+    ]
+  },
+  {
+    "preferred_label": "Apache Cassandra",
+    "alt_labels": [
+      "Cassandra",
+      "Cassandra DB",
+      "CassandraDB"
+    ]
+  },
+  {
+    "preferred_label": "Apache Flink",
+    "alt_labels": [
+      "Flink",
+      "Apache Flink streaming"
+    ]
+  },
+  {
+    "preferred_label": "Apache Hadoop",
+    "alt_labels": [
+      "Hadoop",
+      "Hadoop ecosystem",
+      "HDFS",
+      "Hadoop Distributed File System"
+    ]
+  },
+  {
+    "preferred_label": "Apache Hive",
+    "alt_labels": [
+      "Hive",
+      "HiveQL",
+      "Hive SQL"
+    ]
+  },
+  {
+    "preferred_label": "Apache HTTP Server",
+    "alt_labels": [
+      "Apache",
+      "Apache web server",
+      "httpd",
+      "Apache2"
+    ]
+  },
+  {
+    "preferred_label": "Apache Kafka",
+    "alt_labels": [
+      "Kafka",
+      "Kafka messaging",
+      "Kafka streaming",
+      "Apache Kafka streams"
+    ]
+  },
+  {
+    "preferred_label": "Apache Kafka Connect",
+    "alt_labels": [
+      "Kafka Connect",
+      "Kafka connectors"
+    ]
+  },
+  {
+    "preferred_label": "Apache Maven",
+    "alt_labels": [
+      "Maven",
+      "Maven build tool"
+    ]
+  },
+  {
+    "preferred_label": "Apache NiFi",
+    "alt_labels": [
+      "NiFi",
+      "Apache NiFi data flow"
+    ]
+  },
+  {
+    "preferred_label": "Apache Pulsar",
+    "alt_labels": [
+      "Pulsar",
+      "Pulsar messaging"
+    ]
+  },
+  {
+    "preferred_label": "Apache Spark",
+    "alt_labels": [
+      "Spark",
+      "PySpark",
+      "Spark SQL",
+      "Apache Spark framework"
+    ]
+  },
+  {
+    "preferred_label": "Apache Tomcat",
+    "alt_labels": [
+      "Tomcat",
+      "Tomcat server"
+    ]
+  },
+  {
+    "preferred_label": "API design",
+    "alt_labels": [
+      "API architecture",
+      "API development",
+      "API engineering",
+      "Designing APIs"
+    ]
+  },
+  {
+    "preferred_label": "API gateway",
+    "alt_labels": [
+      "API gateways",
+      "API management",
+      "Kong",
+      "API Gateway pattern"
+    ]
+  },
+  {
+    "preferred_label": "API testing",
+    "alt_labels": [
+      "API test automation",
+      "API validation"
+    ]
+  },
+  {
+    "preferred_label": "Apollo GraphQL",
+    "alt_labels": [
+      "Apollo",
+      "Apollo Client",
+      "Apollo Server"
+    ]
+  },
+  {
+    "preferred_label": "AppDynamics",
+    "alt_labels": [
+      "AppDynamics APM",
+      "Cisco AppDynamics"
+    ]
+  },
+  {
+    "preferred_label": "Argo CD",
+    "alt_labels": [
+      "ArgoCD",
+      "Argo Continuous Delivery",
+      "Argo CD"
+    ]
+  },
+  {
+    "preferred_label": "Artificial intelligence",
+    "alt_labels": [
+      "AI",
+      "AI development",
+      "Artificial Intelligence (AI)"
+    ]
+  },
+  {
+    "preferred_label": "ASP.NET",
+    "alt_labels": [
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "ASPNET",
+      "ASP .NET",
+      "ASP.NET Web API"
+    ]
+  },
+  {
+    "preferred_label": "Assembly language",
+    "alt_labels": [
+      "Assembly",
+      "ASM",
+      "x86 Assembly"
+    ]
+  },
+  {
+    "preferred_label": "Astro",
+    "alt_labels": [
+      "Astro framework",
+      "Astro.build"
+    ]
+  },
+  {
+    "preferred_label": "Atlassian Bitbucket",
+    "alt_labels": [
+      "Bitbucket",
+      "Bitbucket Cloud",
+      "Bitbucket Server"
+    ]
+  },
+  {
+    "preferred_label": "Atlassian Confluence",
+    "alt_labels": [
+      "Confluence",
+      "Confluence wiki"
+    ]
+  },
+  {
+    "preferred_label": "Atlassian Jira",
+    "alt_labels": [
+      "Jira",
+      "JIRA",
+      "Jira Software",
+      "Jira Service Management"
+    ]
+  },
+  {
+    "preferred_label": "Auth0",
+    "alt_labels": [
+      "Auth0 identity",
+      "Auth0 authentication"
+    ]
+  },
+  {
+    "preferred_label": "Automated testing",
+    "alt_labels": [
+      "Test automation",
+      "Automation testing",
+      "QA automation"
+    ]
+  },
+  {
+    "preferred_label": "AutoML",
+    "alt_labels": [
+      "Automated machine learning",
+      "Auto ML"
+    ]
+  },
+  {
+    "preferred_label": "Azure Active Directory",
+    "alt_labels": [
+      "Azure AD",
+      "Microsoft Entra ID",
+      "AAD"
+    ]
+  },
+  {
+    "preferred_label": "Azure App Service",
+    "alt_labels": [
+      "App Service",
+      "Azure Web App"
+    ]
+  },
+  {
+    "preferred_label": "Azure Blob Storage",
+    "alt_labels": [
+      "Blob Storage",
+      "Azure Storage"
+    ]
+  },
+  {
+    "preferred_label": "Azure Cosmos DB",
+    "alt_labels": [
+      "Cosmos DB",
+      "CosmosDB",
+      "Azure CosmosDB"
+    ]
+  },
+  {
+    "preferred_label": "Azure Data Factory",
+    "alt_labels": [
+      "ADF",
+      "Data Factory"
+    ]
+  },
+  {
+    "preferred_label": "Azure DevOps",
+    "alt_labels": [
+      "Azure DevOps Services",
+      "Azure Pipelines",
+      "VSTS",
+      "Visual Studio Team Services"
+    ]
+  },
+  {
+    "preferred_label": "Azure Event Hubs",
+    "alt_labels": [
+      "Event Hubs",
+      "Azure Event Hub"
+    ]
+  },
+  {
+    "preferred_label": "Azure Functions",
+    "alt_labels": [
+      "Azure serverless functions"
+    ]
+  },
+  {
+    "preferred_label": "Azure Key Vault",
+    "alt_labels": [
+      "Key Vault",
+      "Azure secrets"
+    ]
+  },
+  {
+    "preferred_label": "Azure Kubernetes Service",
+    "alt_labels": [
+      "AKS",
+      "Azure AKS"
+    ]
+  },
+  {
+    "preferred_label": "Azure Service Bus",
+    "alt_labels": [
+      "Service Bus",
+      "Azure messaging"
+    ]
+  },
+  {
+    "preferred_label": "Azure SQL Database",
+    "alt_labels": [
+      "Azure SQL",
+      "Azure SQL DB"
+    ]
+  },
+  {
+    "preferred_label": "Backbone.js",
+    "alt_labels": [
+      "Backbone",
+      "BackboneJS"
+    ]
+  },
+  {
+    "preferred_label": "Bash scripting",
+    "alt_labels": [
+      "Bash",
+      "Bash shell",
+      "Shell scripting",
+      "Bash programming",
+      "sh scripting"
+    ]
+  },
+  {
+    "preferred_label": "Bazel",
+    "alt_labels": [
+      "Bazel build",
+      "Google Bazel"
+    ]
+  },
+  {
+    "preferred_label": "Behavior-driven development",
+    "alt_labels": [
+      "BDD",
+      "Behavior driven development",
+      "Behaviour-driven development"
+    ]
+  },
+  {
+    "preferred_label": "BigQuery",
+    "alt_labels": [
+      "Google BigQuery",
+      "GCP BigQuery",
+      "BQ"
+    ]
+  },
+  {
+    "preferred_label": "Blazor",
+    "alt_labels": [
+      "Blazor WebAssembly",
+      "Blazor Server",
+      "ASP.NET Blazor"
+    ]
+  },
+  {
+    "preferred_label": "Blockchain",
+    "alt_labels": [
+      "Blockchain technology",
+      "Blockchain development",
+      "Distributed ledger"
+    ]
+  },
+  {
+    "preferred_label": "Bootstrap",
+    "alt_labels": [
+      "Bootstrap CSS",
+      "Bootstrap framework",
+      "Twitter Bootstrap"
+    ]
+  },
+  {
+    "preferred_label": "Buildkite",
+    "alt_labels": [
+      "Buildkite CI",
+      "Buildkite pipelines"
+    ]
+  },
+  {
+    "preferred_label": "BullMQ",
+    "alt_labels": [
+      "Bull",
+      "Bull queue",
+      "BullMQ job queue"
+    ]
+  },
+  {
+    "preferred_label": "Bun",
+    "alt_labels": [
+      "Bun runtime",
+      "Bun.js"
+    ]
+  },
+  {
+    "preferred_label": "Business continuity",
+    "alt_labels": [
+      "Disaster recovery",
+      "DR planning",
+      "Business continuity planning",
+      "BCP"
+    ]
+  },
+  {
+    "preferred_label": "Business intelligence",
+    "alt_labels": [
+      "BI",
+      "BI tools",
+      "Business analytics"
+    ]
+  },
+  {
+    "preferred_label": "C programming language",
+    "alt_labels": [
+      "C",
+      "C language",
+      "C programming"
+    ]
+  },
+  {
+    "preferred_label": "C#",
+    "alt_labels": [
+      "C Sharp",
+      "CSharp",
+      "C# programming",
+      "C# language"
+    ]
+  },
+  {
+    "preferred_label": "C++",
+    "alt_labels": [
+      "CPP",
+      "C Plus Plus",
+      "C++ programming",
+      "C++ language"
+    ]
+  },
+  {
+    "preferred_label": "Caching strategies",
+    "alt_labels": [
+      "Caching",
+      "Cache management",
+      "Cache invalidation",
+      "Application caching"
+    ]
+  },
+  {
+    "preferred_label": "Capacitor",
+    "alt_labels": [
+      "Ionic Capacitor",
+      "Capacitor framework"
+    ]
+  },
+  {
+    "preferred_label": "Celery",
+    "alt_labels": [
+      "Celery task queue",
+      "Python Celery"
+    ]
+  },
+  {
+    "preferred_label": "Chai",
+    "alt_labels": [
+      "Chai.js",
+      "Chai assertion library"
+    ]
+  },
+  {
+    "preferred_label": "Chef",
+    "alt_labels": [
+      "Chef automation",
+      "Chef configuration management",
+      "Opscode Chef"
+    ]
+  },
+  {
+    "preferred_label": "CircleCI",
+    "alt_labels": [
+      "Circle CI",
+      "CircleCI pipelines"
+    ]
+  },
+  {
+    "preferred_label": "Cisco networking",
+    "alt_labels": [
+      "Cisco",
+      "Cisco systems",
+      "Cisco routers",
+      "Cisco switches"
+    ]
+  },
+  {
+    "preferred_label": "Clean architecture",
+    "alt_labels": [
+      "Clean Architecture pattern",
+      "Hexagonal architecture",
+      "Ports and adapters"
+    ]
+  },
+  {
+    "preferred_label": "Clojure",
+    "alt_labels": [
+      "Clojure language",
+      "ClojureScript",
+      "Clojure programming"
+    ]
+  },
+  {
+    "preferred_label": "Cloud architecture",
+    "alt_labels": [
+      "Cloud design",
+      "Cloud solution architecture",
+      "Cloud infrastructure design"
+    ]
+  },
+  {
+    "preferred_label": "Cloud security",
+    "alt_labels": [
+      "Cloud security posture",
+      "Cloud security management",
+      "Cloud infosec"
+    ]
+  },
+  {
+    "preferred_label": "Cloudflare",
+    "alt_labels": [
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Cloudflare DNS"
+    ]
+  },
+  {
+    "preferred_label": "COBOL",
+    "alt_labels": [
+      "COBOL programming",
+      "COBOL language"
+    ]
+  },
+  {
+    "preferred_label": "CockroachDB",
+    "alt_labels": [
+      "Cockroach DB",
+      "CockroachDB database"
+    ]
+  },
+  {
+    "preferred_label": "Code quality",
+    "alt_labels": [
+      "Code standards",
+      "Clean code",
+      "Code maintainability"
+    ]
+  },
+  {
+    "preferred_label": "Code review",
+    "alt_labels": [
+      "Code reviews",
+      "Peer review",
+      "Pull request review",
+      "PR review"
+    ]
+  },
+  {
+    "preferred_label": "CodeIgniter",
+    "alt_labels": [
+      "Code Igniter",
+      "CodeIgniter PHP"
+    ]
+  },
+  {
+    "preferred_label": "CodePipeline",
+    "alt_labels": [
+      "AWS CodePipeline",
+      "Amazon CodePipeline"
+    ]
+  },
+  {
+    "preferred_label": "Command Query Responsibility Segregation",
+    "alt_labels": [
+      "CQRS",
+      "CQRS pattern"
+    ]
+  },
+  {
+    "preferred_label": "Compliance management",
+    "alt_labels": [
+      "Regulatory compliance",
+      "IT compliance"
+    ]
+  },
+  {
+    "preferred_label": "Computer networking",
+    "alt_labels": [
+      "Networking",
+      "Network engineering",
+      "Network administration"
+    ]
+  },
+  {
+    "preferred_label": "Computer vision",
+    "alt_labels": [
+      "CV",
+      "Image recognition",
+      "Computer vision (CV)",
+      "Visual recognition"
+    ]
+  },
+  {
+    "preferred_label": "Confluent",
+    "alt_labels": [
+      "Confluent Kafka",
+      "Confluent Platform",
+      "Confluent Cloud"
+    ]
+  },
+  {
+    "preferred_label": "Consul",
+    "alt_labels": [
+      "HashiCorp Consul",
+      "Consul service mesh"
+    ]
+  },
+  {
+    "preferred_label": "Container orchestration",
+    "alt_labels": [
+      "Container management",
+      "Container scheduling",
+      "Orchestrating containers"
+    ]
+  },
+  {
+    "preferred_label": "Content delivery network",
+    "alt_labels": [
+      "CDN",
+      "Content distribution network"
+    ]
+  },
+  {
+    "preferred_label": "Continuous delivery",
+    "alt_labels": [
+      "CD",
+      "Continuous Delivery (CD)",
+      "Continuous deployment"
+    ]
+  },
+  {
+    "preferred_label": "Continuous integration",
+    "alt_labels": [
+      "CI",
+      "Continuous Integration (CI)",
+      "CI/CD",
+      "CI CD"
+    ]
+  },
+  {
+    "preferred_label": "CouchBase",
+    "alt_labels": [
+      "Couchbase",
+      "Couchbase Server",
+      "Couchbase NoSQL"
+    ]
+  },
+  {
+    "preferred_label": "CouchDB",
+    "alt_labels": [
+      "Apache CouchDB",
+      "Couch DB"
+    ]
+  },
+  {
+    "preferred_label": "Cross-platform development",
+    "alt_labels": [
+      "Cross platform development",
+      "Multi-platform development"
+    ]
+  },
+  {
+    "preferred_label": "Crystal",
+    "alt_labels": [
+      "Crystal language",
+      "Crystal programming"
+    ]
+  },
+  {
+    "preferred_label": "CSS",
+    "alt_labels": [
+      "CSS3",
+      "Cascading Style Sheets",
+      "CSS styling"
+    ]
+  },
+  {
+    "preferred_label": "Cucumber",
+    "alt_labels": [
+      "Cucumber BDD",
+      "Cucumber testing",
+      "Gherkin"
+    ]
+  },
+  {
+    "preferred_label": "CUDA",
+    "alt_labels": [
+      "NVIDIA CUDA",
+      "CUDA programming",
+      "GPU computing"
+    ]
+  },
+  {
+    "preferred_label": "Cypress",
+    "alt_labels": [
+      "Cypress.io",
+      "Cypress testing",
+      "Cypress test framework"
+    ]
+  },
+  {
+    "preferred_label": "D3.js",
+    "alt_labels": [
+      "D3",
+      "Data-Driven Documents",
+      "D3 visualization"
+    ]
+  },
+  {
+    "preferred_label": "Dart",
+    "alt_labels": [
+      "Dart language",
+      "Dart programming",
+      "Google Dart"
+    ]
+  },
+  {
+    "preferred_label": "Data analysis",
+    "alt_labels": [
+      "Data analytics",
+      "Data analyst skills",
+      "Analytical skills"
+    ]
+  },
+  {
+    "preferred_label": "Data engineering",
+    "alt_labels": [
+      "Data pipeline engineering",
+      "Data infrastructure",
+      "Data platform engineering"
+    ]
+  },
+  {
+    "preferred_label": "Data governance",
+    "alt_labels": [
+      "Data management",
+      "Data stewardship",
+      "Data quality governance"
+    ]
+  },
+  {
+    "preferred_label": "Data lake",
+    "alt_labels": [
+      "Data lakes",
+      "Data lakehouse",
+      "Lake architecture"
+    ]
+  },
+  {
+    "preferred_label": "Data migration",
+    "alt_labels": [
+      "Database migration",
+      "Data conversion"
+    ]
+  },
+  {
+    "preferred_label": "Data modeling",
+    "alt_labels": [
+      "Data modelling",
+      "Database modeling",
+      "Data model design"
+    ]
+  },
+  {
+    "preferred_label": "Data science",
+    "alt_labels": [
+      "Data Science (DS)",
+      "DS"
+    ]
+  },
+  {
+    "preferred_label": "Data visualization",
+    "alt_labels": [
+      "Data viz",
+      "Data visualisation",
+      "Information visualization"
+    ]
+  },
+  {
+    "preferred_label": "Data warehousing",
+    "alt_labels": [
+      "Data warehouse",
+      "DWH",
+      "Data warehouse design"
+    ]
+  },
+  {
+    "preferred_label": "Database administration",
+    "alt_labels": [
+      "DBA",
+      "Database management",
+      "DB administration"
+    ]
+  },
+  {
+    "preferred_label": "Databricks",
+    "alt_labels": [
+      "Databricks platform",
+      "Databricks Lakehouse"
+    ]
+  },
+  {
+    "preferred_label": "Datadog",
+    "alt_labels": [
+      "Datadog monitoring",
+      "Datadog APM"
+    ]
+  },
+  {
+    "preferred_label": "dbt",
+    "alt_labels": [
+      "dbt (data build tool)",
+      "data build tool",
+      "dbt Core",
+      "dbt Cloud"
+    ]
+  },
+  {
+    "preferred_label": "Debugging",
+    "alt_labels": [
+      "Bug fixing",
+      "Troubleshooting code",
+      "Debug"
+    ]
+  },
+  {
+    "preferred_label": "Deep learning",
+    "alt_labels": [
+      "DL",
+      "Deep Learning (DL)",
+      "Deep neural networks"
+    ]
+  },
+  {
+    "preferred_label": "Deno",
+    "alt_labels": [
+      "Deno runtime",
+      "Deno.js"
+    ]
+  },
+  {
+    "preferred_label": "Design patterns",
+    "alt_labels": [
+      "Software design patterns",
+      "GoF patterns",
+      "Gang of Four patterns"
+    ]
+  },
+  {
+    "preferred_label": "DevOps",
+    "alt_labels": [
+      "DevOps practices",
+      "DevOps engineering",
+      "Development Operations"
+    ]
+  },
+  {
+    "preferred_label": "DevSecOps",
+    "alt_labels": [
+      "DevSecOps practices",
+      "Secure DevOps"
+    ]
+  },
+  {
+    "preferred_label": "DigitalOcean",
+    "alt_labels": [
+      "Digital Ocean",
+      "DO cloud"
+    ]
+  },
+  {
+    "preferred_label": "Distributed systems",
+    "alt_labels": [
+      "Distributed computing",
+      "Distributed architecture",
+      "Distributed system design"
+    ]
+  },
+  {
+    "preferred_label": "Django",
+    "alt_labels": [
+      "Django framework",
+      "Django Python",
+      "Django web framework"
+    ]
+  },
+  {
+    "preferred_label": "DNS",
+    "alt_labels": [
+      "Domain Name System",
+      "DNS management",
+      "DNS configuration"
+    ]
+  },
+  {
+    "preferred_label": "Docker",
+    "alt_labels": [
+      "Docker containers",
+      "Docker Engine",
+      "Dockerized",
+      "Docker containerization"
+    ]
+  },
+  {
+    "preferred_label": "Docker Compose",
+    "alt_labels": [
+      "docker-compose",
+      "Docker Compose orchestration"
+    ]
+  },
+  {
+    "preferred_label": "Domain-driven design",
+    "alt_labels": [
+      "DDD",
+      "Domain Driven Design",
+      "DDD methodology"
+    ]
+  },
+  {
+    "preferred_label": "Drizzle ORM",
+    "alt_labels": [
+      "Drizzle",
+      "DrizzleORM"
+    ]
+  },
+  {
+    "preferred_label": "Druid",
+    "alt_labels": [
+      "Apache Druid",
+      "Druid database"
+    ]
+  },
+  {
+    "preferred_label": "Edge computing",
+    "alt_labels": [
+      "Edge infrastructure",
+      "Edge deployment"
+    ]
+  },
+  {
+    "preferred_label": "Elastic APM",
+    "alt_labels": [
+      "Elastic Application Performance Monitoring"
+    ]
+  },
+  {
+    "preferred_label": "Elasticsearch",
+    "alt_labels": [
+      "Elastic Search",
+      "ES",
+      "Elasticsearch database"
+    ]
+  },
+  {
+    "preferred_label": "ElasticSearch Kibana",
+    "alt_labels": [
+      "Kibana",
+      "Kibana dashboards"
+    ]
+  },
+  {
+    "preferred_label": "Electron",
+    "alt_labels": [
+      "Electron.js",
+      "Electron framework",
+      "ElectronJS"
+    ]
+  },
+  {
+    "preferred_label": "Elixir",
+    "alt_labels": [
+      "Elixir language",
+      "Elixir programming"
+    ]
+  },
+  {
+    "preferred_label": "ELK Stack",
+    "alt_labels": [
+      "Elastic Stack",
+      "Elasticsearch Logstash Kibana",
+      "ELK"
+    ]
+  },
+  {
+    "preferred_label": "Elm",
+    "alt_labels": [
+      "Elm language",
+      "Elm programming"
+    ]
+  },
+  {
+    "preferred_label": "Embedded systems",
+    "alt_labels": [
+      "Embedded programming",
+      "Embedded development",
+      "Firmware development"
+    ]
+  },
+  {
+    "preferred_label": "Ember.js",
+    "alt_labels": [
+      "Ember",
+      "EmberJS",
+      "Ember.js framework"
+    ]
+  },
+  {
+    "preferred_label": "Encryption",
+    "alt_labels": [
+      "Data encryption",
+      "Encryption algorithms",
+      "Cryptographic encryption"
+    ]
+  },
+  {
+    "preferred_label": "End-to-end testing",
+    "alt_labels": [
+      "E2E testing",
+      "End to end testing",
+      "E2E tests"
+    ]
+  },
+  {
+    "preferred_label": "Entity Framework",
+    "alt_labels": [
+      "EF",
+      "Entity Framework Core",
+      "EF Core"
+    ]
+  },
+  {
+    "preferred_label": "Envoy proxy",
+    "alt_labels": [
+      "Envoy",
+      "Envoy Proxy"
+    ]
+  },
+  {
+    "preferred_label": "Erlang",
+    "alt_labels": [
+      "Erlang language",
+      "Erlang/OTP",
+      "Erlang programming"
+    ]
+  },
+  {
+    "preferred_label": "ETL",
+    "alt_labels": [
+      "Extract Transform Load",
+      "ETL pipelines",
+      "ETL processes",
+      "Data extraction"
+    ]
+  },
+  {
+    "preferred_label": "Event-driven architecture",
+    "alt_labels": [
+      "EDA",
+      "Event driven architecture",
+      "Event-driven design",
+      "Event sourcing"
+    ]
+  },
+  {
+    "preferred_label": "Express.js",
+    "alt_labels": [
+      "Express",
+      "ExpressJS",
+      "Express framework",
+      "Express Node.js"
+    ]
+  },
+  {
+    "preferred_label": "Extreme programming",
+    "alt_labels": [
+      "XP",
+      "Extreme Programming (XP)"
+    ]
+  },
+  {
+    "preferred_label": "F#",
+    "alt_labels": [
+      "F Sharp",
+      "FSharp",
+      "F# programming"
+    ]
+  },
+  {
+    "preferred_label": "FastAPI",
+    "alt_labels": [
+      "Fast API",
+      "FastAPI framework",
+      "FastAPI Python"
+    ]
+  },
+  {
+    "preferred_label": "Fastify",
+    "alt_labels": [
+      "Fastify framework",
+      "Fastify Node.js"
+    ]
+  },
+  {
+    "preferred_label": "Fauna",
+    "alt_labels": [
+      "FaunaDB",
+      "Fauna database"
+    ]
+  },
+  {
+    "preferred_label": "Feature flagging",
+    "alt_labels": [
+      "Feature flags",
+      "Feature toggles",
+      "Feature management",
+      "LaunchDarkly"
+    ]
+  },
+  {
+    "preferred_label": "Figma",
+    "alt_labels": [
+      "Figma design",
+      "Figma prototyping"
+    ]
+  },
+  {
+    "preferred_label": "Firebase",
+    "alt_labels": [
+      "Google Firebase",
+      "Firebase platform",
+      "Firebase Realtime Database"
+    ]
+  },
+  {
+    "preferred_label": "Firewall management",
+    "alt_labels": [
+      "Firewalls",
+      "Firewall configuration",
+      "Network firewalls"
+    ]
+  },
+  {
+    "preferred_label": "Flask",
+    "alt_labels": [
+      "Flask framework",
+      "Flask Python",
+      "Flask web framework"
+    ]
+  },
+  {
+    "preferred_label": "Flask RESTful",
+    "alt_labels": [
+      "Flask-RESTful",
+      "Flask REST API"
+    ]
+  },
+  {
+    "preferred_label": "Flutter",
+    "alt_labels": [
+      "Flutter framework",
+      "Flutter SDK",
+      "Google Flutter",
+      "Flutter mobile"
+    ]
+  },
+  {
+    "preferred_label": "Flux architecture",
+    "alt_labels": [
+      "Flux",
+      "Flux pattern"
+    ]
+  },
+  {
+    "preferred_label": "Flyway",
+    "alt_labels": [
+      "Flyway migrations",
+      "Flyway database migration"
+    ]
+  },
+  {
+    "preferred_label": "Fortran",
+    "alt_labels": [
+      "Fortran language",
+      "FORTRAN",
+      "Fortran programming"
+    ]
+  },
+  {
+    "preferred_label": "FTP",
+    "alt_labels": [
+      "SFTP",
+      "File Transfer Protocol",
+      "FTPS"
+    ]
+  },
+  {
+    "preferred_label": "Full-stack development",
+    "alt_labels": [
+      "Full stack development",
+      "Fullstack",
+      "Full-stack engineering"
+    ]
+  },
+  {
+    "preferred_label": "Functional programming",
+    "alt_labels": [
+      "FP",
+      "Functional Programming (FP)",
+      "Functional paradigm"
+    ]
+  },
+  {
+    "preferred_label": "Gatsby",
+    "alt_labels": [
+      "Gatsby.js",
+      "GatsbyJS",
+      "Gatsby framework"
+    ]
+  },
+  {
+    "preferred_label": "GCP Cloud Functions",
+    "alt_labels": [
+      "Cloud Functions",
+      "Google Cloud Functions"
+    ]
+  },
+  {
+    "preferred_label": "GDPR compliance",
+    "alt_labels": [
+      "GDPR",
+      "General Data Protection Regulation",
+      "Data privacy compliance"
+    ]
+  },
+  {
+    "preferred_label": "Generative AI",
+    "alt_labels": [
+      "GenAI",
+      "Generative artificial intelligence",
+      "Gen AI"
+    ]
+  },
+  {
+    "preferred_label": "Git",
+    "alt_labels": [
+      "Git version control",
+      "Git VCS",
+      "Git source control"
+    ]
+  },
+  {
+    "preferred_label": "Git branching strategies",
+    "alt_labels": [
+      "Git flow",
+      "GitFlow",
+      "Trunk-based development"
+    ]
+  },
+  {
+    "preferred_label": "GitHub",
+    "alt_labels": [
+      "GitHub.com",
+      "GitHub platform"
+    ]
+  },
+  {
+    "preferred_label": "GitHub Actions",
+    "alt_labels": [
+      "GH Actions",
+      "GitHub CI/CD",
+      "GitHub Actions workflows"
+    ]
+  },
+  {
+    "preferred_label": "GitLab",
+    "alt_labels": [
+      "GitLab.com",
+      "GitLab platform"
+    ]
+  },
+  {
+    "preferred_label": "GitLab CI/CD",
+    "alt_labels": [
+      "GitLab CI",
+      "GitLab pipelines",
+      "GitLab CI CD"
+    ]
+  },
+  {
+    "preferred_label": "Gitops",
+    "alt_labels": [
+      "GitOps",
+      "Git Ops",
+      "GitOps methodology"
+    ]
+  },
+  {
+    "preferred_label": "GLSL",
+    "alt_labels": [
+      "OpenGL Shading Language",
+      "Shader programming"
+    ]
+  },
+  {
+    "preferred_label": "Go",
+    "alt_labels": [
+      "Golang",
+      "Go language",
+      "Go programming"
+    ]
+  },
+  {
+    "preferred_label": "Google Cloud Platform",
+    "alt_labels": [
+      "GCP",
+      "Google Cloud",
+      "GCP services"
+    ]
+  },
+  {
+    "preferred_label": "Google Cloud Pub/Sub",
+    "alt_labels": [
+      "Pub/Sub",
+      "GCP Pub/Sub",
+      "Google Pub Sub"
+    ]
+  },
+  {
+    "preferred_label": "Google Cloud Run",
+    "alt_labels": [
+      "Cloud Run",
+      "GCP Cloud Run"
+    ]
+  },
+  {
+    "preferred_label": "Google Cloud Spanner",
+    "alt_labels": [
+      "Cloud Spanner",
+      "Spanner",
+      "GCP Spanner"
+    ]
+  },
+  {
+    "preferred_label": "Google Cloud Storage",
+    "alt_labels": [
+      "GCS",
+      "Cloud Storage",
+      "GCP Storage"
+    ]
+  },
+  {
+    "preferred_label": "Google Compute Engine",
+    "alt_labels": [
+      "GCE",
+      "Compute Engine",
+      "GCP Compute Engine"
+    ]
+  },
+  {
+    "preferred_label": "Google Dataflow",
+    "alt_labels": [
+      "Dataflow",
+      "GCP Dataflow"
+    ]
+  },
+  {
+    "preferred_label": "Google Dataproc",
+    "alt_labels": [
+      "Dataproc",
+      "GCP Dataproc"
+    ]
+  },
+  {
+    "preferred_label": "Google Kubernetes Engine",
+    "alt_labels": [
+      "GKE",
+      "Google GKE",
+      "GCP GKE"
+    ]
+  },
+  {
+    "preferred_label": "Google Maps API",
+    "alt_labels": [
+      "Google Maps",
+      "Maps API",
+      "Google Maps Platform"
+    ]
+  },
+  {
+    "preferred_label": "Gradle",
+    "alt_labels": [
+      "Gradle build tool",
+      "Gradle build system"
+    ]
+  },
+  {
+    "preferred_label": "Grafana",
+    "alt_labels": [
+      "Grafana dashboards",
+      "Grafana monitoring"
+    ]
+  },
+  {
+    "preferred_label": "Grafana Loki",
+    "alt_labels": [
+      "Loki",
+      "Loki logging"
+    ]
+  },
+  {
+    "preferred_label": "Graph databases",
+    "alt_labels": [
+      "Graph DB",
+      "Graph database technology"
+    ]
+  },
+  {
+    "preferred_label": "GraphQL",
+    "alt_labels": [
+      "Graph QL",
+      "GraphQL API",
+      "GraphQL queries"
+    ]
+  },
+  {
+    "preferred_label": "Groovy",
+    "alt_labels": [
+      "Groovy language",
+      "Apache Groovy",
+      "Groovy programming"
+    ]
+  },
+  {
+    "preferred_label": "gRPC",
+    "alt_labels": [
+      "GRPC",
+      "gRPC framework",
+      "Google RPC"
+    ]
+  },
+  {
+    "preferred_label": "Hapi.js",
+    "alt_labels": [
+      "Hapi",
+      "HapiJS"
+    ]
+  },
+  {
+    "preferred_label": "Haproxy",
+    "alt_labels": [
+      "HAProxy",
+      "HA Proxy",
+      "HAProxy load balancer"
+    ]
+  },
+  {
+    "preferred_label": "HashiCorp tools",
+    "alt_labels": [
+      "HashiCorp",
+      "HCP"
+    ]
+  },
+  {
+    "preferred_label": "Haskell",
+    "alt_labels": [
+      "Haskell language",
+      "Haskell programming"
+    ]
+  },
+  {
+    "preferred_label": "Helm",
+    "alt_labels": [
+      "Helm charts",
+      "Kubernetes Helm",
+      "Helm package manager"
+    ]
+  },
+  {
+    "preferred_label": "Heroku",
+    "alt_labels": [
+      "Heroku platform",
+      "Heroku cloud"
+    ]
+  },
+  {
+    "preferred_label": "Hibernate",
+    "alt_labels": [
+      "Hibernate ORM",
+      "Java Hibernate"
+    ]
+  },
+  {
+    "preferred_label": "High availability",
+    "alt_labels": [
+      "HA",
+      "High Availability (HA)",
+      "HA architecture",
+      "Fault tolerance"
+    ]
+  },
+  {
+    "preferred_label": "HIPAA compliance",
+    "alt_labels": [
+      "HIPAA",
+      "Health Insurance Portability and Accountability Act"
+    ]
+  },
+  {
+    "preferred_label": "HTML",
+    "alt_labels": [
+      "HTML5",
+      "HyperText Markup Language",
+      "HTML markup"
+    ]
+  },
+  {
+    "preferred_label": "HTTP",
+    "alt_labels": [
+      "HTTP protocol",
+      "HTTPS",
+      "HTTP/2",
+      "HTTP/3"
+    ]
+  },
+  {
+    "preferred_label": "Hugging Face",
+    "alt_labels": [
+      "HuggingFace",
+      "Hugging Face Transformers"
+    ]
+  },
+  {
+    "preferred_label": "Hugo",
+    "alt_labels": [
+      "Hugo static site generator",
+      "GoHugo"
+    ]
+  },
+  {
+    "preferred_label": "Identity and access management",
+    "alt_labels": [
+      "IAM",
+      "Access management",
+      "Identity management",
+      "IAM policies"
+    ]
+  },
+  {
+    "preferred_label": "Incident management",
+    "alt_labels": [
+      "Incident response",
+      "Incident handling",
+      "On-call management"
+    ]
+  },
+  {
+    "preferred_label": "InfluxDB",
+    "alt_labels": [
+      "Influx DB",
+      "InfluxDB time series"
+    ]
+  },
+  {
+    "preferred_label": "Infrastructure as code",
+    "alt_labels": [
+      "IaC",
+      "Infrastructure as Code (IaC)",
+      "Infra as code"
+    ]
+  },
+  {
+    "preferred_label": "Inngest",
+    "alt_labels": [
+      "Inngest platform",
+      "Inngest functions"
+    ]
+  },
+  {
+    "preferred_label": "Integration testing",
+    "alt_labels": [
+      "Integration tests",
+      "Service integration testing"
+    ]
+  },
+  {
+    "preferred_label": "Internet of Things",
+    "alt_labels": [
+      "IoT",
+      "IoT development",
+      "Internet of Things (IoT)"
+    ]
+  },
+  {
+    "preferred_label": "Ionic",
+    "alt_labels": [
+      "Ionic framework",
+      "Ionic mobile"
+    ]
+  },
+  {
+    "preferred_label": "iOS development",
+    "alt_labels": [
+      "iOS",
+      "iOS app development",
+      "iOS programming",
+      "iPhone development"
+    ]
+  },
+  {
+    "preferred_label": "IP networking",
+    "alt_labels": [
+      "IP addressing",
+      "Subnetting",
+      "IPv4",
+      "IPv6"
+    ]
+  },
+  {
+    "preferred_label": "Istio",
+    "alt_labels": [
+      "Istio service mesh",
+      "Istio mesh"
+    ]
+  },
+  {
+    "preferred_label": "ITIL",
+    "alt_labels": [
+      "ITIL framework",
+      "IT Infrastructure Library",
+      "ITIL practices"
+    ]
+  },
+  {
+    "preferred_label": "Jaeger",
+    "alt_labels": [
+      "Jaeger tracing",
+      "Jaeger distributed tracing"
+    ]
+  },
+  {
+    "preferred_label": "Java",
+    "alt_labels": [
+      "Java language",
+      "Java programming",
+      "Java SE",
+      "Java EE"
+    ]
+  },
+  {
+    "preferred_label": "Java Virtual Machine",
+    "alt_labels": [
+      "JVM",
+      "JVM tuning",
+      "JVM languages"
+    ]
+  },
+  {
+    "preferred_label": "JavaFX",
+    "alt_labels": [
+      "Java FX",
+      "JavaFX framework"
+    ]
+  },
+  {
+    "preferred_label": "JavaScript",
+    "alt_labels": [
+      "JS",
+      "Javascript",
+      "ECMAScript",
+      "ES6",
+      "ES2015+",
+      "JavaScript programming"
+    ]
+  },
+  {
+    "preferred_label": "Jenkins",
+    "alt_labels": [
+      "Jenkins CI",
+      "Jenkins CI/CD",
+      "Jenkins automation"
+    ]
+  },
+  {
+    "preferred_label": "Jest",
+    "alt_labels": [
+      "Jest testing",
+      "Jest framework",
+      "Jest JavaScript testing"
+    ]
+  },
+  {
+    "preferred_label": "Jetpack Compose",
+    "alt_labels": [
+      "Compose",
+      "Android Compose",
+      "Jetpack Compose UI"
+    ]
+  },
+  {
+    "preferred_label": "Jinja2",
+    "alt_labels": [
+      "Jinja",
+      "Jinja templating"
+    ]
+  },
+  {
+    "preferred_label": "jQuery",
+    "alt_labels": [
+      "JQuery",
+      "jQuery library"
+    ]
+  },
+  {
+    "preferred_label": "JSON",
+    "alt_labels": [
+      "JavaScript Object Notation",
+      "JSON format"
+    ]
+  },
+  {
+    "preferred_label": "JSON Web Tokens",
+    "alt_labels": [
+      "JWT",
+      "JWTs",
+      "JSON Web Token"
+    ]
+  },
+  {
+    "preferred_label": "Julia",
+    "alt_labels": [
+      "Julia language",
+      "Julia programming"
+    ]
+  },
+  {
+    "preferred_label": "JUnit",
+    "alt_labels": [
+      "JUnit testing",
+      "JUnit 5",
+      "JUnit framework"
+    ]
+  },
+  {
+    "preferred_label": "Jupyter",
+    "alt_labels": [
+      "Jupyter Notebook",
+      "Jupyter Lab",
+      "JupyterHub",
+      "Jupyter notebooks"
+    ]
+  },
+  {
+    "preferred_label": "Kafka Streams",
+    "alt_labels": [
+      "Kafka Streams API",
+      "Kafka stream processing"
+    ]
+  },
+  {
+    "preferred_label": "Kanban",
+    "alt_labels": [
+      "Kanban methodology",
+      "Kanban board",
+      "Kanban system"
+    ]
+  },
+  {
+    "preferred_label": "Keras",
+    "alt_labels": [
+      "Keras library",
+      "Keras deep learning"
+    ]
+  },
+  {
+    "preferred_label": "Keycloak",
+    "alt_labels": [
+      "Keycloak SSO",
+      "Keycloak identity"
+    ]
+  },
+  {
+    "preferred_label": "Knex.js",
+    "alt_labels": [
+      "Knex",
+      "KnexJS",
+      "Knex query builder"
+    ]
+  },
+  {
+    "preferred_label": "Koa.js",
+    "alt_labels": [
+      "Koa",
+      "KoaJS"
+    ]
+  },
+  {
+    "preferred_label": "Kotlin",
+    "alt_labels": [
+      "Kotlin language",
+      "Kotlin programming",
+      "Kotlin JVM"
+    ]
+  },
+  {
+    "preferred_label": "Kubernetes",
+    "alt_labels": [
+      "K8s",
+      "Kube",
+      "Kubernetes orchestration",
+      "Kubernetes cluster"
+    ]
+  },
+  {
+    "preferred_label": "Kubernetes operators",
+    "alt_labels": [
+      "K8s operators",
+      "Custom operators"
+    ]
+  },
+  {
+    "preferred_label": "LangChain",
+    "alt_labels": [
+      "Langchain",
+      "LangChain framework"
+    ]
+  },
+  {
+    "preferred_label": "Laravel",
+    "alt_labels": [
+      "Laravel framework",
+      "Laravel PHP",
+      "Laravel web framework"
+    ]
+  },
+  {
+    "preferred_label": "Large language models",
+    "alt_labels": [
+      "LLM",
+      "LLMs",
+      "Large Language Models (LLMs)",
+      "Foundation models"
+    ]
+  },
+  {
+    "preferred_label": "LDAP",
+    "alt_labels": [
+      "Lightweight Directory Access Protocol",
+      "LDAP directory"
+    ]
+  },
+  {
+    "preferred_label": "Lean methodology",
+    "alt_labels": [
+      "Lean",
+      "Lean software development",
+      "Lean thinking"
+    ]
+  },
+  {
+    "preferred_label": "Linkerd",
+    "alt_labels": [
+      "Linkerd service mesh"
+    ]
+  },
+  {
+    "preferred_label": "Linux",
+    "alt_labels": [
+      "Linux OS",
+      "Linux administration",
+      "Linux systems",
+      "GNU/Linux"
+    ]
+  },
+  {
+    "preferred_label": "Linux containers",
+    "alt_labels": [
+      "LXC",
+      "Linux containerization",
+      "LXD"
+    ]
+  },
+  {
+    "preferred_label": "Liquibase",
+    "alt_labels": [
+      "Liquibase migrations",
+      "Liquibase database migration"
+    ]
+  },
+  {
+    "preferred_label": "Load balancing",
+    "alt_labels": [
+      "Load balancer",
+      "Load balancers",
+      "Traffic distribution"
+    ]
+  },
+  {
+    "preferred_label": "Load testing",
+    "alt_labels": [
+      "Performance testing",
+      "Stress testing",
+      "Load test"
+    ]
+  },
+  {
+    "preferred_label": "Locust",
+    "alt_labels": [
+      "Locust load testing",
+      "Locust.io"
+    ]
+  },
+  {
+    "preferred_label": "Log management",
+    "alt_labels": [
+      "Log aggregation",
+      "Centralized logging",
+      "Log analysis"
+    ]
+  },
+  {
+    "preferred_label": "Logstash",
+    "alt_labels": [
+      "Elastic Logstash"
+    ]
+  },
+  {
+    "preferred_label": "Looker",
+    "alt_labels": [
+      "Google Looker",
+      "Looker BI",
+      "LookML"
+    ]
+  },
+  {
+    "preferred_label": "Looker Studio",
+    "alt_labels": [
+      "Google Data Studio",
+      "Data Studio"
+    ]
+  },
+  {
+    "preferred_label": "Lua",
+    "alt_labels": [
+      "Lua language",
+      "Lua scripting",
+      "Lua programming"
+    ]
+  },
+  {
+    "preferred_label": "Machine learning",
+    "alt_labels": [
+      "ML",
+      "Machine Learning (ML)",
+      "ML engineering"
+    ]
+  },
+  {
+    "preferred_label": "macOS",
+    "alt_labels": [
+      "Mac OS",
+      "macOS development",
+      "Mac OS X",
+      "Apple macOS"
+    ]
+  },
+  {
+    "preferred_label": "MariaDB",
+    "alt_labels": [
+      "Maria DB",
+      "MariaDB database"
+    ]
+  },
+  {
+    "preferred_label": "Material UI",
+    "alt_labels": [
+      "MUI",
+      "Material-UI",
+      "Material Design React"
+    ]
+  },
+  {
+    "preferred_label": "MATLAB",
+    "alt_labels": [
+      "Matlab",
+      "MATLAB programming",
+      "MathWorks MATLAB"
+    ]
+  },
+  {
+    "preferred_label": "MAUI",
+    "alt_labels": [
+      ".NET MAUI",
+      "Multi-platform App UI",
+      "Microsoft MAUI"
+    ]
+  },
+  {
+    "preferred_label": "Memcached",
+    "alt_labels": [
+      "Memcache",
+      "Memcached caching"
+    ]
+  },
+  {
+    "preferred_label": "Mercurial",
+    "alt_labels": [
+      "Hg",
+      "Mercurial VCS",
+      "Mercurial version control"
+    ]
+  },
+  {
+    "preferred_label": "Message queuing",
+    "alt_labels": [
+      "Message queues",
+      "Message broker",
+      "Message-oriented middleware",
+      "MQ"
+    ]
+  },
+  {
+    "preferred_label": "Metabase",
+    "alt_labels": [
+      "Metabase BI",
+      "Metabase analytics"
+    ]
+  },
+  {
+    "preferred_label": "Meteor",
+    "alt_labels": [
+      "Meteor.js",
+      "MeteorJS"
+    ]
+  },
+  {
+    "preferred_label": "Micronaut",
+    "alt_labels": [
+      "Micronaut framework",
+      "Micronaut Java"
+    ]
+  },
+  {
+    "preferred_label": "Microservices architecture",
+    "alt_labels": [
+      "Microservices",
+      "Micro services",
+      "Microservice architecture",
+      "MSA"
+    ]
+  },
+  {
+    "preferred_label": "Microsoft .NET",
+    "alt_labels": [
+      ".NET",
+      "dotnet",
+      ".NET Core",
+      ".NET Framework",
+      "Microsoft dotnet"
+    ]
+  },
+  {
+    "preferred_label": "Microsoft 365",
+    "alt_labels": [
+      "Office 365",
+      "M365",
+      "Microsoft Office"
+    ]
+  },
+  {
+    "preferred_label": "Microsoft Azure",
+    "alt_labels": [
+      "Azure",
+      "Azure cloud",
+      "Microsoft Azure cloud"
+    ]
+  },
+  {
+    "preferred_label": "Microsoft Power BI",
+    "alt_labels": [
+      "Power BI",
+      "PowerBI",
+      "Power BI Desktop"
+    ]
+  },
+  {
+    "preferred_label": "Microsoft SQL Server",
+    "alt_labels": [
+      "SQL Server",
+      "MSSQL",
+      "MS SQL Server",
+      "T-SQL"
+    ]
+  },
+  {
+    "preferred_label": "Microsoft Teams development",
+    "alt_labels": [
+      "Teams apps",
+      "Teams bot",
+      "Microsoft Teams SDK"
+    ]
+  },
+  {
+    "preferred_label": "MinIO",
+    "alt_labels": [
+      "Minio",
+      "MinIO object storage"
+    ]
+  },
+  {
+    "preferred_label": "MLflow",
+    "alt_labels": [
+      "ML Flow",
+      "MLflow platform"
+    ]
+  },
+  {
+    "preferred_label": "MLOps",
+    "alt_labels": [
+      "ML Ops",
+      "Machine learning operations",
+      "ML Operations"
+    ]
+  },
+  {
+    "preferred_label": "Mobile development",
+    "alt_labels": [
+      "Mobile app development",
+      "Mobile engineering",
+      "Mobile application development"
+    ]
+  },
+  {
+    "preferred_label": "MobX",
+    "alt_labels": [
+      "Mobx",
+      "MobX state management"
+    ]
+  },
+  {
+    "preferred_label": "Mocha",
+    "alt_labels": [
+      "Mocha.js",
+      "Mocha testing",
+      "MochaJS"
+    ]
+  },
+  {
+    "preferred_label": "MongoDB",
+    "alt_labels": [
+      "Mongo",
+      "Mongo DB",
+      "MongoDB database",
+      "MongoDB Atlas"
+    ]
+  },
+  {
+    "preferred_label": "Monitoring and observability",
+    "alt_labels": [
+      "Observability",
+      "System monitoring",
+      "Application monitoring",
+      "APM"
+    ]
+  },
+  {
+    "preferred_label": "MQTT",
+    "alt_labels": [
+      "MQTT protocol",
+      "Message Queuing Telemetry Transport"
+    ]
+  },
+  {
+    "preferred_label": "MySQL",
+    "alt_labels": [
+      "My SQL",
+      "MySQL database",
+      "MySQL server"
+    ]
+  },
+  {
+    "preferred_label": "NATS",
+    "alt_labels": [
+      "NATS messaging",
+      "NATS.io"
+    ]
+  },
+  {
+    "preferred_label": "Natural language processing",
+    "alt_labels": [
+      "NLP",
+      "Natural Language Processing (NLP)",
+      "Text analytics",
+      "Text mining"
+    ]
+  },
+  {
+    "preferred_label": "Neo4j",
+    "alt_labels": [
+      "Neo4j graph database",
+      "Neo4J"
+    ]
+  },
+  {
+    "preferred_label": "NestJS",
+    "alt_labels": [
+      "Nest.js",
+      "NestJS framework",
+      "Nest JS"
+    ]
+  },
+  {
+    "preferred_label": "Netlify",
+    "alt_labels": [
+      "Netlify platform",
+      "Netlify hosting"
+    ]
+  },
+  {
+    "preferred_label": "Network security",
+    "alt_labels": [
+      "Network security management",
+      "Network protection",
+      "NetSec"
+    ]
+  },
+  {
+    "preferred_label": "New Relic",
+    "alt_labels": [
+      "NewRelic",
+      "New Relic monitoring",
+      "New Relic APM"
+    ]
+  },
+  {
+    "preferred_label": "Next.js",
+    "alt_labels": [
+      "NextJS",
+      "Next JS",
+      "Next.js framework",
+      "Nextjs"
+    ]
+  },
+  {
+    "preferred_label": "Nginx",
+    "alt_labels": [
+      "NGINX",
+      "Nginx web server",
+      "Nginx reverse proxy"
+    ]
+  },
+  {
+    "preferred_label": "Nix",
+    "alt_labels": [
+      "NixOS",
+      "Nix package manager",
+      "Nix flakes"
+    ]
+  },
+  {
+    "preferred_label": "NLTK",
+    "alt_labels": [
+      "Natural Language Toolkit",
+      "Python NLTK"
+    ]
+  },
+  {
+    "preferred_label": "Node.js",
+    "alt_labels": [
+      "Node",
+      "NodeJS",
+      "Node JS",
+      "Node.js runtime"
+    ]
+  },
+  {
+    "preferred_label": "NoSQL",
+    "alt_labels": [
+      "NoSQL databases",
+      "Non-relational databases",
+      "NoSQL DB"
+    ]
+  },
+  {
+    "preferred_label": "NumPy",
+    "alt_labels": [
+      "Numpy",
+      "NumPy library",
+      "Python NumPy"
+    ]
+  },
+  {
+    "preferred_label": "Nuxt.js",
+    "alt_labels": [
+      "Nuxt",
+      "NuxtJS",
+      "Nuxt.js framework"
+    ]
+  },
+  {
+    "preferred_label": "OAuth",
+    "alt_labels": [
+      "OAuth 2.0",
+      "OAuth2",
+      "OAuth authentication"
+    ]
+  },
+  {
+    "preferred_label": "Object-oriented programming",
+    "alt_labels": [
+      "OOP",
+      "Object oriented programming",
+      "OO programming"
+    ]
+  },
+  {
+    "preferred_label": "Objective-C",
+    "alt_labels": [
+      "ObjC",
+      "Objective C",
+      "Obj-C"
+    ]
+  },
+  {
+    "preferred_label": "OCaml",
+    "alt_labels": [
+      "OCaml language",
+      "OCaml programming"
+    ]
+  },
+  {
+    "preferred_label": "Okta",
+    "alt_labels": [
+      "Okta identity",
+      "Okta SSO"
+    ]
+  },
+  {
+    "preferred_label": "OpenAI API",
+    "alt_labels": [
+      "OpenAI",
+      "GPT API",
+      "ChatGPT API"
+    ]
+  },
+  {
+    "preferred_label": "OpenAPI",
+    "alt_labels": [
+      "OpenAPI Specification",
+      "Swagger",
+      "OpenAPI spec",
+      "OAS"
+    ]
+  },
+  {
+    "preferred_label": "OpenCV",
+    "alt_labels": [
+      "Open CV",
+      "OpenCV library"
+    ]
+  },
+  {
+    "preferred_label": "OpenID Connect",
+    "alt_labels": [
+      "OIDC",
+      "OpenID",
+      "OpenID Connect authentication"
+    ]
+  },
+  {
+    "preferred_label": "OpenShift",
+    "alt_labels": [
+      "Red Hat OpenShift",
+      "OpenShift Container Platform",
+      "OCP"
+    ]
+  },
+  {
+    "preferred_label": "OpenTelemetry",
+    "alt_labels": [
+      "OTel",
+      "OpenTelemetry observability"
+    ]
+  },
+  {
+    "preferred_label": "Oracle Database",
+    "alt_labels": [
+      "Oracle DB",
+      "Oracle",
+      "Oracle RDBMS",
+      "Oracle database management"
+    ]
+  },
+  {
+    "preferred_label": "ORM",
+    "alt_labels": [
+      "Object-Relational Mapping",
+      "Object Relational Mapper"
+    ]
+  },
+  {
+    "preferred_label": "OWASP",
+    "alt_labels": [
+      "OWASP Top 10",
+      "Open Web Application Security Project",
+      "OWASP security"
+    ]
+  },
+  {
+    "preferred_label": "Packer",
+    "alt_labels": [
+      "HashiCorp Packer",
+      "Packer image builder"
+    ]
+  },
+  {
+    "preferred_label": "PagerDuty",
+    "alt_labels": [
+      "Pager Duty",
+      "PagerDuty alerting"
+    ]
+  },
+  {
+    "preferred_label": "Pair programming",
+    "alt_labels": [
+      "Pair coding",
+      "Pairing",
+      "Mob programming"
+    ]
+  },
+  {
+    "preferred_label": "Pandas",
+    "alt_labels": [
+      "Python Pandas",
+      "Pandas library",
+      "Pandas DataFrame"
+    ]
+  },
+  {
+    "preferred_label": "PCI DSS compliance",
+    "alt_labels": [
+      "PCI DSS",
+      "PCI compliance",
+      "Payment Card Industry"
+    ]
+  },
+  {
+    "preferred_label": "Penetration testing",
+    "alt_labels": [
+      "Pen testing",
+      "Pentesting",
+      "Penetration tester",
+      "Ethical hacking"
+    ]
+  },
+  {
+    "preferred_label": "Perl",
+    "alt_labels": [
+      "Perl language",
+      "Perl scripting",
+      "Perl programming"
+    ]
+  },
+  {
+    "preferred_label": "Phoenix framework",
+    "alt_labels": [
+      "Phoenix",
+      "Elixir Phoenix",
+      "Phoenix web framework"
+    ]
+  },
+  {
+    "preferred_label": "PHP",
+    "alt_labels": [
+      "PHP language",
+      "PHP programming",
+      "PHP scripting"
+    ]
+  },
+  {
+    "preferred_label": "PL/SQL",
+    "alt_labels": [
+      "PLSQL",
+      "PL SQL",
+      "Oracle PL/SQL"
+    ]
+  },
+  {
+    "preferred_label": "PlanetScale",
+    "alt_labels": [
+      "PlanetScale database",
+      "PlanetScale MySQL"
+    ]
+  },
+  {
+    "preferred_label": "Platform engineering",
+    "alt_labels": [
+      "Platform eng",
+      "Internal developer platform"
+    ]
+  },
+  {
+    "preferred_label": "Playwright",
+    "alt_labels": [
+      "Playwright testing",
+      "Microsoft Playwright",
+      "Playwright framework"
+    ]
+  },
+  {
+    "preferred_label": "Podman",
+    "alt_labels": [
+      "Podman containers",
+      "Red Hat Podman"
+    ]
+  },
+  {
+    "preferred_label": "PostgreSQL",
+    "alt_labels": [
+      "Postgres",
+      "PG",
+      "PostgreSQL database",
+      "psql"
+    ]
+  },
+  {
+    "preferred_label": "Postman",
+    "alt_labels": [
+      "Postman API",
+      "Postman API testing"
+    ]
+  },
+  {
+    "preferred_label": "PowerShell",
+    "alt_labels": [
+      "PowerShell scripting",
+      "PS",
+      "Windows PowerShell",
+      "PowerShell Core"
+    ]
+  },
+  {
+    "preferred_label": "Prisma",
+    "alt_labels": [
+      "Prisma ORM",
+      "PrismaJS",
+      "Prisma database"
+    ]
+  },
+  {
+    "preferred_label": "Product management",
+    "alt_labels": [
+      "Product ownership",
+      "Product management skills"
+    ]
+  },
+  {
+    "preferred_label": "Progressive web applications",
+    "alt_labels": [
+      "PWA",
+      "Progressive Web App",
+      "PWAs"
+    ]
+  },
+  {
+    "preferred_label": "Prometheus",
+    "alt_labels": [
+      "Prometheus monitoring",
+      "Prometheus metrics"
+    ]
+  },
+  {
+    "preferred_label": "Prompt engineering",
+    "alt_labels": [
+      "Prompt design",
+      "LLM prompt engineering",
+      "AI prompting"
+    ]
+  },
+  {
+    "preferred_label": "Protobuf",
+    "alt_labels": [
+      "Protocol Buffers",
+      "Google Protobuf",
+      "Proto"
+    ]
+  },
+  {
+    "preferred_label": "Pub/Sub pattern",
+    "alt_labels": [
+      "Publish subscribe",
+      "Pub Sub",
+      "Publish-subscribe pattern"
+    ]
+  },
+  {
+    "preferred_label": "Pulumi",
+    "alt_labels": [
+      "Pulumi IaC",
+      "Pulumi infrastructure"
+    ]
+  },
+  {
+    "preferred_label": "Puppet",
+    "alt_labels": [
+      "Puppet automation",
+      "Puppet configuration management"
+    ]
+  },
+  {
+    "preferred_label": "Puppet Enterprise",
+    "alt_labels": [
+      "Puppet PE"
+    ]
+  },
+  {
+    "preferred_label": "pytest",
+    "alt_labels": [
+      "Pytest",
+      "pytest framework",
+      "Python pytest"
+    ]
+  },
+  {
+    "preferred_label": "Python",
+    "alt_labels": [
+      "Python language",
+      "Python programming",
+      "Python 3",
+      "Python3"
+    ]
+  },
+  {
+    "preferred_label": "PyTorch",
+    "alt_labels": [
+      "Pytorch",
+      "PyTorch framework",
+      "PyTorch deep learning"
+    ]
+  },
+  {
+    "preferred_label": "Quarkus",
+    "alt_labels": [
+      "Quarkus framework",
+      "Quarkus Java"
+    ]
+  },
+  {
+    "preferred_label": "R",
+    "alt_labels": [
+      "R language",
+      "R programming",
+      "R statistical computing"
+    ]
+  },
+  {
+    "preferred_label": "RabbitMQ",
+    "alt_labels": [
+      "Rabbit MQ",
+      "RabbitMQ messaging",
+      "AMQP RabbitMQ"
+    ]
+  },
+  {
+    "preferred_label": "RabbitMQ Streams",
+    "alt_labels": [
+      "RabbitMQ stream"
+    ]
+  },
+  {
+    "preferred_label": "Rancher",
+    "alt_labels": [
+      "Rancher Kubernetes",
+      "SUSE Rancher"
+    ]
+  },
+  {
+    "preferred_label": "Raspberry Pi",
+    "alt_labels": [
+      "RPi",
+      "Raspberry Pi development"
+    ]
+  },
+  {
+    "preferred_label": "Ray",
+    "alt_labels": [
+      "Ray framework",
+      "Ray distributed"
+    ]
+  },
+  {
+    "preferred_label": "React",
+    "alt_labels": [
+      "React.js",
+      "ReactJS",
+      "React library",
+      "React framework"
+    ]
+  },
+  {
+    "preferred_label": "React Native",
+    "alt_labels": [
+      "ReactNative",
+      "React Native mobile",
+      "RN"
+    ]
+  },
+  {
+    "preferred_label": "React Query",
+    "alt_labels": [
+      "TanStack Query",
+      "React Query library"
+    ]
+  },
+  {
+    "preferred_label": "Reactive programming",
+    "alt_labels": [
+      "RxJS",
+      "Reactive extensions",
+      "Rx programming"
+    ]
+  },
+  {
+    "preferred_label": "Red Hat Enterprise Linux",
+    "alt_labels": [
+      "RHEL",
+      "Red Hat Linux"
+    ]
+  },
+  {
+    "preferred_label": "Redis",
+    "alt_labels": [
+      "Redis cache",
+      "Redis database",
+      "Redis server"
+    ]
+  },
+  {
+    "preferred_label": "Redux",
+    "alt_labels": [
+      "Redux.js",
+      "Redux state management",
+      "React Redux"
+    ]
+  },
+  {
+    "preferred_label": "Regex",
+    "alt_labels": [
+      "Regular expressions",
+      "Regexp",
+      "Regular expression"
+    ]
+  },
+  {
+    "preferred_label": "Reinforcement learning",
+    "alt_labels": [
+      "RL",
+      "Reinforcement Learning (RL)"
+    ]
+  },
+  {
+    "preferred_label": "Remix",
+    "alt_labels": [
+      "Remix.run",
+      "Remix framework"
+    ]
+  },
+  {
+    "preferred_label": "Responsive web design",
+    "alt_labels": [
+      "Responsive design",
+      "RWD",
+      "Mobile-first design"
+    ]
+  },
+  {
+    "preferred_label": "RESTful APIs",
+    "alt_labels": [
+      "REST",
+      "REST API",
+      "RESTful services",
+      "REST APIs",
+      "Representational State Transfer"
+    ]
+  },
+  {
+    "preferred_label": "Risk management",
+    "alt_labels": [
+      "IT risk management",
+      "Risk assessment",
+      "Security risk management"
+    ]
+  },
+  {
+    "preferred_label": "Robot Framework",
+    "alt_labels": [
+      "RobotFramework",
+      "Robot testing"
+    ]
+  },
+  {
+    "preferred_label": "Rollup",
+    "alt_labels": [
+      "Rollup.js",
+      "RollupJS",
+      "Rollup bundler"
+    ]
+  },
+  {
+    "preferred_label": "ROS",
+    "alt_labels": [
+      "Robot Operating System",
+      "ROS 2",
+      "ROS framework"
+    ]
+  },
+  {
+    "preferred_label": "RPA",
+    "alt_labels": [
+      "Robotic Process Automation",
+      "Automation bots",
+      "UiPath"
+    ]
+  },
+  {
+    "preferred_label": "Ruby",
+    "alt_labels": [
+      "Ruby language",
+      "Ruby programming"
+    ]
+  },
+  {
+    "preferred_label": "Ruby on Rails",
+    "alt_labels": [
+      "Rails",
+      "RoR",
+      "Rails framework",
+      "Ruby Rails"
+    ]
+  },
+  {
+    "preferred_label": "Ruby Sinatra",
+    "alt_labels": [
+      "Sinatra",
+      "Sinatra framework"
+    ]
+  },
+  {
+    "preferred_label": "Rust",
+    "alt_labels": [
+      "Rust language",
+      "Rust programming",
+      "Rustlang"
+    ]
+  },
+  {
+    "preferred_label": "Rust Tokio",
+    "alt_labels": [
+      "Tokio",
+      "Tokio async runtime"
+    ]
+  },
+  {
+    "preferred_label": "SaaS architecture",
+    "alt_labels": [
+      "SaaS",
+      "Software as a Service",
+      "SaaS design"
+    ]
+  },
+  {
+    "preferred_label": "Saltstack",
+    "alt_labels": [
+      "Salt",
+      "SaltStack",
+      "Salt configuration management",
+      "VMware Salt"
+    ]
+  },
+  {
+    "preferred_label": "SAML",
+    "alt_labels": [
+      "Security Assertion Markup Language",
+      "SAML 2.0",
+      "SAML SSO"
+    ]
+  },
+  {
+    "preferred_label": "Sass",
+    "alt_labels": [
+      "SASS",
+      "SCSS",
+      "Sass CSS preprocessor"
+    ]
+  },
+  {
+    "preferred_label": "Scala",
+    "alt_labels": [
+      "Scala language",
+      "Scala programming",
+      "Scala JVM"
+    ]
+  },
+  {
+    "preferred_label": "Scala Play",
+    "alt_labels": [
+      "Play Framework",
+      "Play framework Scala"
+    ]
+  },
+  {
+    "preferred_label": "Scikit-learn",
+    "alt_labels": [
+      "sklearn",
+      "Scikit learn",
+      "scikit-learn library"
+    ]
+  },
+  {
+    "preferred_label": "SciPy",
+    "alt_labels": [
+      "Scipy",
+      "SciPy library",
+      "Python SciPy"
+    ]
+  },
+  {
+    "preferred_label": "Scrum",
+    "alt_labels": [
+      "Scrum methodology",
+      "Scrum framework",
+      "Scrum master"
+    ]
+  },
+  {
+    "preferred_label": "Security information and event management",
+    "alt_labels": [
+      "SIEM",
+      "Security monitoring",
+      "SIEM tools"
+    ]
+  },
+  {
+    "preferred_label": "Selenium",
+    "alt_labels": [
+      "Selenium WebDriver",
+      "Selenium testing",
+      "Selenium automation"
+    ]
+  },
+  {
+    "preferred_label": "Selenium Grid",
+    "alt_labels": [
+      "Selenium distributed testing"
+    ]
+  },
+  {
+    "preferred_label": "Sentry",
+    "alt_labels": [
+      "Sentry.io",
+      "Sentry error tracking",
+      "Sentry monitoring"
+    ]
+  },
+  {
+    "preferred_label": "Sequelize",
+    "alt_labels": [
+      "Sequelize ORM",
+      "Sequelize.js"
+    ]
+  },
+  {
+    "preferred_label": "Serverless architecture",
+    "alt_labels": [
+      "Serverless",
+      "Serverless computing",
+      "FaaS",
+      "Function as a Service"
+    ]
+  },
+  {
+    "preferred_label": "Service mesh",
+    "alt_labels": [
+      "Service mesh architecture",
+      "Service mesh networking"
+    ]
+  },
+  {
+    "preferred_label": "Service-oriented architecture",
+    "alt_labels": [
+      "SOA",
+      "Service oriented architecture"
+    ]
+  },
+  {
+    "preferred_label": "Single sign-on",
+    "alt_labels": [
+      "SSO",
+      "Single Sign-On",
+      "SSO integration"
+    ]
+  },
+  {
+    "preferred_label": "Site reliability engineering",
+    "alt_labels": [
+      "SRE",
+      "Site Reliability Engineering (SRE)",
+      "SRE practices"
+    ]
+  },
+  {
+    "preferred_label": "Sketch",
+    "alt_labels": [
+      "Sketch design",
+      "Sketch app"
+    ]
+  },
+  {
+    "preferred_label": "Slack API",
+    "alt_labels": [
+      "Slack integration",
+      "Slack bots",
+      "Slack apps"
+    ]
+  },
+  {
+    "preferred_label": "Snowflake",
+    "alt_labels": [
+      "Snowflake data warehouse",
+      "Snowflake cloud",
+      "Snowflake DB"
+    ]
+  },
+  {
+    "preferred_label": "SOAP",
+    "alt_labels": [
+      "SOAP API",
+      "SOAP web services",
+      "Simple Object Access Protocol"
+    ]
+  },
+  {
+    "preferred_label": "SOC 2 compliance",
+    "alt_labels": [
+      "SOC 2",
+      "SOC2",
+      "Service Organization Control"
+    ]
+  },
+  {
+    "preferred_label": "Socket.io",
+    "alt_labels": [
+      "SocketIO",
+      "Socket IO"
+    ]
+  },
+  {
+    "preferred_label": "Software architecture",
+    "alt_labels": [
+      "System architecture",
+      "Application architecture",
+      "Solution architecture"
+    ]
+  },
+  {
+    "preferred_label": "Software testing",
+    "alt_labels": [
+      "QA testing",
+      "Quality assurance",
+      "Software QA"
+    ]
+  },
+  {
+    "preferred_label": "SOLID principles",
+    "alt_labels": [
+      "SOLID",
+      "SOLID design principles"
+    ]
+  },
+  {
+    "preferred_label": "Solidity",
+    "alt_labels": [
+      "Solidity language",
+      "Solidity smart contracts",
+      "Ethereum Solidity"
+    ]
+  },
+  {
+    "preferred_label": "Solr",
+    "alt_labels": [
+      "Apache Solr",
+      "Solr search"
+    ]
+  },
+  {
+    "preferred_label": "SonarQube",
+    "alt_labels": [
+      "Sonar",
+      "SonarQube analysis",
+      "SonarCloud"
+    ]
+  },
+  {
+    "preferred_label": "spaCy",
+    "alt_labels": [
+      "Spacy",
+      "spaCy NLP",
+      "spaCy library"
+    ]
+  },
+  {
+    "preferred_label": "Spatial databases",
+    "alt_labels": [
+      "PostGIS",
+      "Spatial data",
+      "GIS databases"
+    ]
+  },
+  {
+    "preferred_label": "Splunk",
+    "alt_labels": [
+      "Splunk SIEM",
+      "Splunk monitoring",
+      "Splunk analytics"
+    ]
+  },
+  {
+    "preferred_label": "Spring Boot",
+    "alt_labels": [
+      "SpringBoot",
+      "Spring Boot framework",
+      "Java Spring Boot"
+    ]
+  },
+  {
+    "preferred_label": "Spring Cloud",
+    "alt_labels": [
+      "Spring Cloud Netflix",
+      "Spring Cloud Gateway"
+    ]
+  },
+  {
+    "preferred_label": "Spring Framework",
+    "alt_labels": [
+      "Spring",
+      "Java Spring",
+      "Spring MVC"
+    ]
+  },
+  {
+    "preferred_label": "Spring Security",
+    "alt_labels": [
+      "Spring Security framework"
+    ]
+  },
+  {
+    "preferred_label": "SQL",
+    "alt_labels": [
+      "Structured Query Language",
+      "SQL queries",
+      "SQL programming"
+    ]
+  },
+  {
+    "preferred_label": "SQLAlchemy",
+    "alt_labels": [
+      "SQL Alchemy",
+      "SQLAlchemy ORM",
+      "Python SQLAlchemy"
+    ]
+  },
+  {
+    "preferred_label": "SQLite",
+    "alt_labels": [
+      "SQLite database",
+      "SQLite3",
+      "SQLite DB"
+    ]
+  },
+  {
+    "preferred_label": "SSH",
+    "alt_labels": [
+      "Secure Shell",
+      "SSH protocol",
+      "SSH keys"
+    ]
+  },
+  {
+    "preferred_label": "SSL/TLS",
+    "alt_labels": [
+      "SSL",
+      "TLS",
+      "SSL certificates",
+      "TLS encryption"
+    ]
+  },
+  {
+    "preferred_label": "Stored procedures",
+    "alt_labels": [
+      "SQL stored procedures",
+      "Database stored procedures"
+    ]
+  },
+  {
+    "preferred_label": "Storybook",
+    "alt_labels": [
+      "StorybookJS",
+      "Storybook UI"
+    ]
+  },
+  {
+    "preferred_label": "Streamlit",
+    "alt_labels": [
+      "Streamlit app",
+      "Streamlit Python"
+    ]
+  },
+  {
+    "preferred_label": "Stripe",
+    "alt_labels": [
+      "Stripe payments",
+      "Stripe API",
+      "Stripe integration"
+    ]
+  },
+  {
+    "preferred_label": "Supabase",
+    "alt_labels": [
+      "Supabase platform",
+      "Supabase backend"
+    ]
+  },
+  {
+    "preferred_label": "Svelte",
+    "alt_labels": [
+      "Svelte.js",
+      "SvelteJS",
+      "Svelte framework"
+    ]
+  },
+  {
+    "preferred_label": "SvelteKit",
+    "alt_labels": [
+      "Svelte Kit",
+      "SvelteKit framework"
+    ]
+  },
+  {
+    "preferred_label": "Swagger",
+    "alt_labels": [
+      "Swagger UI",
+      "Swagger documentation"
+    ]
+  },
+  {
+    "preferred_label": "Swift",
+    "alt_labels": [
+      "Swift language",
+      "Swift programming",
+      "Apple Swift"
+    ]
+  },
+  {
+    "preferred_label": "SwiftUI",
+    "alt_labels": [
+      "Swift UI",
+      "SwiftUI framework",
+      "Apple SwiftUI"
+    ]
+  },
+  {
+    "preferred_label": "Symfony",
+    "alt_labels": [
+      "Symfony framework",
+      "Symfony PHP"
+    ]
+  },
+  {
+    "preferred_label": "System design",
+    "alt_labels": [
+      "Systems design",
+      "System design interview",
+      "Designing systems"
+    ]
+  },
+  {
+    "preferred_label": "Tableau",
+    "alt_labels": [
+      "Tableau visualization",
+      "Tableau Desktop",
+      "Tableau BI"
+    ]
+  },
+  {
+    "preferred_label": "Tailwind CSS",
+    "alt_labels": [
+      "Tailwind",
+      "TailwindCSS",
+      "Tailwind CSS framework"
+    ]
+  },
+  {
+    "preferred_label": "Tauri",
+    "alt_labels": [
+      "Tauri framework",
+      "Tauri desktop"
+    ]
+  },
+  {
+    "preferred_label": "TCP/IP",
+    "alt_labels": [
+      "TCP IP",
+      "TCP/IP networking",
+      "TCP/IP protocol"
+    ]
+  },
+  {
+    "preferred_label": "TeamCity",
+    "alt_labels": [
+      "JetBrains TeamCity",
+      "TeamCity CI"
+    ]
+  },
+  {
+    "preferred_label": "Technical writing",
+    "alt_labels": [
+      "Technical documentation",
+      "Tech writing",
+      "Documentation writing"
+    ]
+  },
+  {
+    "preferred_label": "Temporal",
+    "alt_labels": [
+      "Temporal.io",
+      "Temporal workflow"
+    ]
+  },
+  {
+    "preferred_label": "TensorFlow",
+    "alt_labels": [
+      "Tensorflow",
+      "TF",
+      "TensorFlow framework",
+      "Google TensorFlow"
+    ]
+  },
+  {
+    "preferred_label": "Terraform",
+    "alt_labels": [
+      "HashiCorp Terraform",
+      "Terraform IaC",
+      "TF infrastructure"
+    ]
+  },
+  {
+    "preferred_label": "Terraform Cloud",
+    "alt_labels": [
+      "TFC",
+      "Terraform Cloud workspace"
+    ]
+  },
+  {
+    "preferred_label": "Test-driven development",
+    "alt_labels": [
+      "TDD",
+      "Test Driven Development",
+      "Test-first development"
+    ]
+  },
+  {
+    "preferred_label": "Testing Library",
+    "alt_labels": [
+      "React Testing Library",
+      "RTL",
+      "@testing-library"
+    ]
+  },
+  {
+    "preferred_label": "TestNG",
+    "alt_labels": [
+      "TestNG framework",
+      "TestNG Java"
+    ]
+  },
+  {
+    "preferred_label": "Three.js",
+    "alt_labels": [
+      "ThreeJS",
+      "Three JS",
+      "Three.js 3D"
+    ]
+  },
+  {
+    "preferred_label": "Thrift",
+    "alt_labels": [
+      "Apache Thrift"
+    ]
+  },
+  {
+    "preferred_label": "TimescaleDB",
+    "alt_labels": [
+      "Timescale",
+      "TimescaleDB time series"
+    ]
+  },
+  {
+    "preferred_label": "Traefik",
+    "alt_labels": [
+      "Traefik proxy",
+      "Traefik ingress"
+    ]
+  },
+  {
+    "preferred_label": "Travis CI",
+    "alt_labels": [
+      "TravisCI",
+      "Travis CI/CD"
+    ]
+  },
+  {
+    "preferred_label": "Trunk-based development",
+    "alt_labels": [
+      "Trunk based development",
+      "Trunk development"
+    ]
+  },
+  {
+    "preferred_label": "Turbo",
+    "alt_labels": [
+      "Turborepo",
+      "Turbopack"
+    ]
+  },
+  {
+    "preferred_label": "Twelve-factor app",
+    "alt_labels": [
+      "12-factor app",
+      "12 factor methodology"
+    ]
+  },
+  {
+    "preferred_label": "Twig",
+    "alt_labels": [
+      "Twig template engine",
+      "Twig PHP"
+    ]
+  },
+  {
+    "preferred_label": "Twilio",
+    "alt_labels": [
+      "Twilio API",
+      "Twilio messaging"
+    ]
+  },
+  {
+    "preferred_label": "TypeORM",
+    "alt_labels": [
+      "Type ORM",
+      "TypeORM framework"
+    ]
+  },
+  {
+    "preferred_label": "TypeScript",
+    "alt_labels": [
+      "TS",
+      "Typescript",
+      "TypeScript programming"
+    ]
+  },
+  {
+    "preferred_label": "Ubuntu",
+    "alt_labels": [
+      "Ubuntu Linux",
+      "Ubuntu Server",
+      "Ubuntu OS"
+    ]
+  },
+  {
+    "preferred_label": "UI/UX design",
+    "alt_labels": [
+      "UI design",
+      "UX design",
+      "User interface design",
+      "User experience design"
+    ]
+  },
+  {
+    "preferred_label": "UIKit",
+    "alt_labels": [
+      "UI Kit",
+      "Apple UIKit",
+      "iOS UIKit"
+    ]
+  },
+  {
+    "preferred_label": "UML",
+    "alt_labels": [
+      "Unified Modeling Language",
+      "UML diagrams"
+    ]
+  },
+  {
+    "preferred_label": "Unit testing",
+    "alt_labels": [
+      "Unit tests",
+      "Unit test writing",
+      "Component testing"
+    ]
+  },
+  {
+    "preferred_label": "Unity",
+    "alt_labels": [
+      "Unity engine",
+      "Unity3D",
+      "Unity game engine"
+    ]
+  },
+  {
+    "preferred_label": "Unix",
+    "alt_labels": [
+      "UNIX",
+      "Unix systems",
+      "Unix administration"
+    ]
+  },
+  {
+    "preferred_label": "Unreal Engine",
+    "alt_labels": [
+      "UE",
+      "Unreal",
+      "UE5",
+      "Unreal Engine 5"
+    ]
+  },
+  {
+    "preferred_label": "Vagrant",
+    "alt_labels": [
+      "HashiCorp Vagrant",
+      "Vagrant VMs"
+    ]
+  },
+  {
+    "preferred_label": "Vault",
+    "alt_labels": [
+      "HashiCorp Vault",
+      "Vault secrets management"
+    ]
+  },
+  {
+    "preferred_label": "Vercel",
+    "alt_labels": [
+      "Vercel platform",
+      "Vercel hosting",
+      "Vercel deployment"
+    ]
+  },
+  {
+    "preferred_label": "VirtualBox",
+    "alt_labels": [
+      "Oracle VirtualBox",
+      "Virtual Box"
+    ]
+  },
+  {
+    "preferred_label": "Virtualization",
+    "alt_labels": [
+      "VM",
+      "Virtual machines",
+      "Server virtualization"
+    ]
+  },
+  {
+    "preferred_label": "Visual Basic",
+    "alt_labels": [
+      "VB",
+      "VB.NET",
+      "Visual Basic .NET",
+      "VBA"
+    ]
+  },
+  {
+    "preferred_label": "Visual Studio Code",
+    "alt_labels": [
+      "VS Code",
+      "VSCode",
+      "Visual Studio Code IDE"
+    ]
+  },
+  {
+    "preferred_label": "Vite",
+    "alt_labels": [
+      "Vite.js",
+      "ViteJS",
+      "Vite build tool"
+    ]
+  },
+  {
+    "preferred_label": "Vitest",
+    "alt_labels": [
+      "Vitest framework",
+      "Vitest testing"
+    ]
+  },
+  {
+    "preferred_label": "VMware",
+    "alt_labels": [
+      "VMWare",
+      "VMware vSphere",
+      "VMware ESXi"
+    ]
+  },
+  {
+    "preferred_label": "VPN",
+    "alt_labels": [
+      "Virtual Private Network",
+      "VPN configuration",
+      "VPN management"
+    ]
+  },
+  {
+    "preferred_label": "Vue.js",
+    "alt_labels": [
+      "Vue",
+      "VueJS",
+      "Vue JS",
+      "Vue.js framework"
+    ]
+  },
+  {
+    "preferred_label": "Vuex",
+    "alt_labels": [
+      "Vuex store",
+      "Vue state management"
+    ]
+  },
+  {
+    "preferred_label": "Vulnerability assessment",
+    "alt_labels": [
+      "Vulnerability scanning",
+      "Vuln assessment",
+      "Security scanning"
+    ]
+  },
+  {
+    "preferred_label": "Web accessibility",
+    "alt_labels": [
+      "a11y",
+      "WCAG",
+      "Web Content Accessibility Guidelines",
+      "Accessibility"
+    ]
+  },
+  {
+    "preferred_label": "Web performance optimization",
+    "alt_labels": [
+      "Web performance",
+      "Page speed optimization",
+      "Core Web Vitals",
+      "Web vitals"
+    ]
+  },
+  {
+    "preferred_label": "Web scraping",
+    "alt_labels": [
+      "Web crawling",
+      "Screen scraping",
+      "Data scraping"
+    ]
+  },
+  {
+    "preferred_label": "Web security",
+    "alt_labels": [
+      "Application security",
+      "AppSec",
+      "Web application security"
+    ]
+  },
+  {
+    "preferred_label": "WebAssembly",
+    "alt_labels": [
+      "WASM",
+      "Wasm",
+      "WebAssembly (WASM)",
+      "WebAssembly runtime"
+    ]
+  },
+  {
+    "preferred_label": "Webpack",
+    "alt_labels": [
+      "Webpack bundler",
+      "Webpack build"
+    ]
+  },
+  {
+    "preferred_label": "WebRTC",
+    "alt_labels": [
+      "Web RTC",
+      "WebRTC protocol",
+      "Real-time communication"
+    ]
+  },
+  {
+    "preferred_label": "WebSocket",
+    "alt_labels": [
+      "WebSockets",
+      "WS",
+      "WebSocket protocol"
+    ]
+  },
+  {
+    "preferred_label": "Windows Server",
+    "alt_labels": [
+      "Windows Server administration",
+      "Win Server",
+      "Microsoft Windows Server"
+    ]
+  },
+  {
+    "preferred_label": "WPF",
+    "alt_labels": [
+      "Windows Presentation Foundation",
+      "WPF framework"
+    ]
+  },
+  {
+    "preferred_label": "Xamarin",
+    "alt_labels": [
+      "Xamarin.Forms",
+      "Xamarin mobile",
+      "Microsoft Xamarin"
+    ]
+  },
+  {
+    "preferred_label": "XML",
+    "alt_labels": [
+      "Extensible Markup Language",
+      "XML parsing"
+    ]
+  },
+  {
+    "preferred_label": "YAML",
+    "alt_labels": [
+      "YAML configuration",
+      "YAML Ain't Markup Language"
+    ]
+  },
+  {
+    "preferred_label": "Zod",
+    "alt_labels": [
+      "Zod validation",
+      "Zod schema"
+    ]
+  },
+  {
+    "preferred_label": "Zookeeper",
+    "alt_labels": [
+      "Apache ZooKeeper",
+      "ZooKeeper",
+      "ZK"
+    ]
+  },
+  {
+    "preferred_label": "Zustand",
+    "alt_labels": [
+      "Zustand state management",
+      "Zustand React"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+	"Software Engineer": { "soc_code": "15-1252", "mean_annual_wage": 132270 },
+	"Senior Software Engineer": {
+		"soc_code": "15-1252",
+		"mean_annual_wage": 155000
+	},
+	"DevOps / Platform Engineer": {
+		"soc_code": "15-1244",
+		"mean_annual_wage": 120950
+	},
+	"Data Engineer": { "soc_code": "15-1252", "mean_annual_wage": 132270 },
+	"Data Scientist": { "soc_code": "15-2051", "mean_annual_wage": 108020 },
+	"Security Engineer": { "soc_code": "15-1212", "mean_annual_wage": 120360 },
+	"IT Support / SysAdmin": { "soc_code": "15-1232", "mean_annual_wage": 91560 },
+	"Engineering Manager": { "soc_code": "11-9041", "mean_annual_wage": 169930 },
+	"Product Manager": { "soc_code": "11-2021", "mean_annual_wage": 157620 },
+	"UNKNOWN": { "soc_code": null, "mean_annual_wage": 100000 }
+}

@@ -1,0 +1,109 @@
+{
+	"Software Engineer": {
+		"keywords": [
+			"software engineer",
+			"software developer",
+			"swe",
+			"backend engineer",
+			"frontend engineer",
+			"full stack engineer",
+			"fullstack engineer",
+			"full-stack engineer",
+			"application developer"
+		],
+		"exclude": ["senior", "staff", "principal", "lead"]
+	},
+	"Senior Software Engineer": {
+		"keywords": [
+			"senior software engineer",
+			"senior software developer",
+			"staff engineer",
+			"principal engineer",
+			"senior swe",
+			"lead software engineer",
+			"lead developer"
+		]
+	},
+	"DevOps / Platform Engineer": {
+		"keywords": [
+			"devops",
+			"platform engineer",
+			"sre",
+			"site reliability",
+			"infrastructure engineer",
+			"cloud engineer",
+			"devops engineer",
+			"reliability engineer"
+		]
+	},
+	"Data Engineer": {
+		"keywords": [
+			"data engineer",
+			"analytics engineer",
+			"etl engineer",
+			"data platform engineer",
+			"big data engineer"
+		]
+	},
+	"Data Scientist": {
+		"keywords": [
+			"data scientist",
+			"ml engineer",
+			"machine learning engineer",
+			"ai engineer",
+			"research scientist",
+			"applied scientist"
+		]
+	},
+	"Security Engineer": {
+		"keywords": [
+			"security engineer",
+			"appsec",
+			"application security",
+			"devsecops",
+			"penetration tester",
+			"pentester",
+			"cybersecurity engineer",
+			"infosec engineer",
+			"security analyst"
+		]
+	},
+	"IT Support / SysAdmin": {
+		"keywords": [
+			"it support",
+			"help desk",
+			"sysadmin",
+			"system administrator",
+			"it specialist",
+			"desktop support",
+			"it engineer",
+			"network administrator",
+			"systems engineer"
+		]
+	},
+	"Engineering Manager": {
+		"keywords": [
+			"engineering manager",
+			"vp engineering",
+			"director of engineering",
+			"head of engineering",
+			"vp of engineering",
+			"engineering director",
+			"tech lead manager"
+		]
+	},
+	"Product Manager": {
+		"keywords": [
+			"product manager",
+			"product owner",
+			"technical product manager",
+			"tpm",
+			"group product manager",
+			"senior product manager"
+		]
+	},
+	"UNKNOWN": {
+		"keywords": [],
+		"description": "Fallback for unmatched titles"
+	}
+}
