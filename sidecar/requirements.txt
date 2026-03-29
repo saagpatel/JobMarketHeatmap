@@ -50,7 +50,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.5.3
 starlette==0.46.2
-thinc==8.3.13
+thinc==9.1.1
 tqdm==4.67.3
 typer==0.24.1
 typing-inspection==0.4.2
