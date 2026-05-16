@@ -52,3 +52,55 @@ See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
 - Do not call FastAPI from `useEffect` on mount without user action — gate behind button or scheduler callback
 - Do not use D3 for the co-occurrence graph — vis-network is the locked choice
 - Do not aggregate data for commercial use or distribution — personal use only per Adzuna ToS
+
+<!-- portfolio-context:start -->
+# Portfolio Context
+
+## What This Project Is
+
+A local Tauri 2 desktop app that ingests job postings from the Adzuna API, normalizes them
+against a rule-based role taxonomy, extracts skills using spaCy NLP, and renders 5 interactive
+visualizations: geographic heatmap, skill demand bar chart, salary box plots, skill co-occurrence
+network graph, and trend lines. All data stays local in SQLite. This is a personal research tool,
+not a distributed product.
+
+## Current State
+
+**Phase 0: Foundation**
+See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
+
+## Stack
+
+- **Tauri 2** — desktop shell, sidecar lifecycle management, OS keychain for API credentials
+- **React 18 + TypeScript** — frontend (strict mode, hooks only, no class components)
+- **Vite 5** — frontend build tooling
+- **Recharts 2** — bar charts, box plots, trend lines
+- **Leaflet.js 1.9 + react-leaflet 4** — geographic heatmap
+- **vis-network 9** — skill co-occurrence force graph (NOT D3 — vis-network is simpler for this use case)
+- **FastAPI 0.115** — Python HTTP API, runs as PyInstaller sidecar on localhost:8008
+- **SQLite 3** — via Python `sqlite3` stdlib, single DB file at `~/.job-market-heatmap/data.db`
+- **spaCy 3.8 + en_core_web_sm** — NLP pipeline for skill extraction
+- **APScheduler 3.10** — in-process nightly cron inside FastAPI sidecar
+- **PyInstaller 6** — bundles Python + all deps into single binary for Tauri sidecar
+- **keytar (Rust tauri-plugin-store)** — API key storage in macOS Keychain, never plaintext
+
+## How To Run
+
+```bash
+pnpm tauri dev
+```
+
+## Known Risks
+
+- Do not store Adzuna `app_id` or `app_key` in `.env` files or source code — use `tauri-plugin-store` backed by macOS Keychain
+- Do not add features outside the current phase in IMPLEMENTATION-ROADMAP.md
+- Do not use class components — hooks only in React
+- Do not call FastAPI from `useEffect` on mount without user action — gate behind button or scheduler callback
+- Do not use D3 for the co-occurrence graph — vis-network is the locked choice
+- Do not aggregate data for commercial use or distribution — personal use only per Adzuna ToS
+
+## Next Recommended Move
+
+Use this context plus the README and supporting docs to resume the next active task, then promote the repo beyond minimum-viable by capturing a dedicated handoff, roadmap, or discovery artifact.
+
+<!-- portfolio-context:end -->
