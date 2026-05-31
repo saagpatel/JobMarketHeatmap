@@ -31,3 +31,4 @@ Thumbs.db
 # Environment (dev only — credentials must NEVER be committed)
 .env
 .env.local
+CLAUDE.md.bak
