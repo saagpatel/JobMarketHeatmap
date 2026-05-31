@@ -11,15 +11,15 @@ not a distributed product.
 - **Tauri 2** — desktop shell, sidecar lifecycle management, OS keychain for API credentials
 - **React 18 + TypeScript** — frontend (strict mode, hooks only, no class components)
 - **Vite 5** — frontend build tooling
-- **Recharts 2** — bar charts, box plots, trend lines
+- **Recharts 3** — bar charts, box plots, trend lines
 - **Leaflet.js 1.9 + react-leaflet 4** — geographic heatmap
-- **vis-network 9** — skill co-occurrence force graph (NOT D3 — vis-network is simpler for this use case)
+- **vis-network 10** — skill co-occurrence force graph (NOT D3 — vis-network is simpler for this use case)
 - **FastAPI 0.115** — Python HTTP API, runs as PyInstaller sidecar on localhost:8008
 - **SQLite 3** — via Python `sqlite3` stdlib, single DB file at `~/.job-market-heatmap/data.db`
 - **spaCy 3.8 + en_core_web_sm** — NLP pipeline for skill extraction
-- **APScheduler 3.10** — in-process nightly cron inside FastAPI sidecar
+- **APScheduler 3.11** — in-process nightly cron inside FastAPI sidecar
 - **PyInstaller 6** — bundles Python + all deps into single binary for Tauri sidecar
-- **keytar (Rust tauri-plugin-store)** — API key storage in macOS Keychain, never plaintext
+- **tauri-plugin-store** — API key storage via Tauri store (credentials.json in app data dir); hydrated to sidecar memory at startup
 
 ## Development Conventions
 - TypeScript strict mode — no `any` types, no `// @ts-ignore`
@@ -74,15 +74,15 @@ See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
 - **Tauri 2** — desktop shell, sidecar lifecycle management, OS keychain for API credentials
 - **React 18 + TypeScript** — frontend (strict mode, hooks only, no class components)
 - **Vite 5** — frontend build tooling
-- **Recharts 2** — bar charts, box plots, trend lines
+- **Recharts 3** — bar charts, box plots, trend lines
 - **Leaflet.js 1.9 + react-leaflet 4** — geographic heatmap
-- **vis-network 9** — skill co-occurrence force graph (NOT D3 — vis-network is simpler for this use case)
+- **vis-network 10** — skill co-occurrence force graph (NOT D3 — vis-network is simpler for this use case)
 - **FastAPI 0.115** — Python HTTP API, runs as PyInstaller sidecar on localhost:8008
 - **SQLite 3** — via Python `sqlite3` stdlib, single DB file at `~/.job-market-heatmap/data.db`
 - **spaCy 3.8 + en_core_web_sm** — NLP pipeline for skill extraction
-- **APScheduler 3.10** — in-process nightly cron inside FastAPI sidecar
+- **APScheduler 3.11** — in-process nightly cron inside FastAPI sidecar
 - **PyInstaller 6** — bundles Python + all deps into single binary for Tauri sidecar
-- **keytar (Rust tauri-plugin-store)** — API key storage in macOS Keychain, never plaintext
+- **tauri-plugin-store** — API key storage via Tauri store (credentials.json in app data dir); hydrated to sidecar memory at startup
 
 ## How To Run
 

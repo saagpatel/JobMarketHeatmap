@@ -25,7 +25,7 @@ A macOS desktop app that ingests job postings from the Adzuna API, extracts skil
 ### Installation
 ```bash
 pnpm install
-pip install -e ./src-python
+pip install -r sidecar/requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
