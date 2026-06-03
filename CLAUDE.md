@@ -23,7 +23,7 @@ Local Tauri 2 desktop app — ingests job postings from Adzuna API, extracts ski
 pnpm tauri dev          # full dev (frontend + Rust + sidecar)
 pnpm build              # tsc && vite build (frontend only)
 python -m pytest sidecar/tests/ -v   # Python sidecar tests
-ruff check sidecar/                  # Python lint
+ruff check sidecar/               # Python lint
 ```
 
 ## Key Decisions
