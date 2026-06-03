@@ -30,7 +30,7 @@ not a distributed product.
 - No raw SQL string concatenation — use parameterized queries only
 
 ## Current Phase
-**Phase 0: Foundation**
+**Phases 0–3 complete** — scaffold, ingestion, 5 visualizations + filter panel, Phase 3 UX polish. Release-closeout (v1.0, CSP hardening, .dmg) not yet started.
 See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
 
 ## Key Decisions
@@ -66,7 +66,7 @@ not a distributed product.
 
 ## Current State
 
-**Phase 0: Foundation**
+**Phases 0–3 complete** (scaffold, ingestion pipeline, 5 visualizations + filter panel, Phase 3 UX polish). Release-closeout cadence (v1.0 bump, CSP hardening, baseline Rust tests, .dmg packaging) not yet started.
 See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
 
 ## Stack
