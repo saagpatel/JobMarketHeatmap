@@ -215,7 +215,7 @@ def seed() -> None:
 
     cooccurrence_pairs = len(pair_counts)
 
-    print(f"Seed complete:")
+    print("Seed complete:")
     print(f"  Jobs inserted:        {jobs_inserted}")
     print(f"  Skills inserted:      {skills_inserted}")
     print(f"  Co-occurrence pairs:  {cooccurrence_pairs}")

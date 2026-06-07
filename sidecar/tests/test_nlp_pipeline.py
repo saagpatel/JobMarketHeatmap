@@ -1,7 +1,5 @@
 """Tests for the NLP skill extraction pipeline."""
 
-import pytest
-
 from services.nlp_pipeline import NlpPipeline, SkillMatch
 
 
