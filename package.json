@@ -19,7 +19,7 @@
 		"react-leaflet": "4.2.1",
 		"recharts": "3.10.1",
 		"vis-data": "8.0.5",
-		"vis-network": "10.1.1"
+		"vis-network": "10.1.2"
 	},
 	"devDependencies": {
 		"@tauri-apps/api": "^2",
