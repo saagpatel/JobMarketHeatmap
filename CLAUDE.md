@@ -22,8 +22,8 @@ Local Tauri 2 desktop app — ingests job postings from Adzuna API, extracts ski
 ```bash
 pnpm tauri dev          # full dev (frontend + Rust + sidecar)
 pnpm build              # tsc && vite build (frontend only)
-python -m pytest sidecar/tests/ -v   # Python sidecar tests
-ruff check sidecar/               # Python lint
+python -m pytest tests/ -v   # Python sidecar tests
+ruff check src/ tests/       # Python lint
 ```
 
 ## Key Decisions
@@ -57,7 +57,7 @@ ruff check sidecar/               # Python lint
 
 ## Status
 
-Phases 0–3 complete (scaffold, ingestion, 5 visualizations + filter panel, Phase 3 UX polish). Release-closeout (v1.0, CSP hardening, .dmg) not yet started. See IMPLEMENTATION-ROADMAP.md.
+Phases 0–2 complete (scaffold, ingestion, 5 visualizations + filter panel). Release-closeout (v1.0, CSP hardening, .dmg) not yet started. See IMPLEMENTATION-ROADMAP.md.
 
 <!-- portfolio-context:start -->
 # Portfolio Context
@@ -72,7 +72,7 @@ not a distributed product.
 
 ## Current State
 
-**Phases 0–3 complete** (scaffold, ingestion pipeline, 5 visualizations + filter panel, Phase 3 UX polish). Release-closeout cadence (v1.0 bump, CSP hardening, baseline Rust tests, .dmg packaging) not yet started.
+**Phases 0–2 complete** (scaffold, ingestion pipeline, 5 visualizations + filter panel). Release-closeout cadence (v1.0 bump, CSP hardening, baseline Rust tests, .dmg packaging) not yet started.
 See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
 
 ## Stack
