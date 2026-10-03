@@ -4,18 +4,9 @@ Local Tauri 2 desktop app — ingests job postings from Adzuna API, extracts ski
 
 ## Stack
 
-- **Tauri 2** — desktop shell, sidecar lifecycle, OS keychain for API credentials
-- **React 18 + TypeScript** — frontend (strict mode, hooks only)
-- **Vite 5** — frontend build
-- **Recharts 3** — bar charts, box plots, trend lines
-- **Leaflet.js 1.9 + react-leaflet 4** — geographic heatmap
-- **vis-network 10** — skill co-occurrence force graph (locked: not D3)
-- **FastAPI 0.115** — Python HTTP API, PyInstaller sidecar on `localhost:8008`
-- **SQLite 3** — Python `sqlite3` stdlib; DB at `~/.job-market-heatmap/data.db`
-- **spaCy 3.8 + en_core_web_sm** — NLP skill extraction
-- **APScheduler 3.11** — in-process nightly cron inside FastAPI
-- **PyInstaller 6** — bundles Python + deps into single binary
-- **tauri-plugin-store** — API key storage (credentials.json in app data dir); hydrated to sidecar at startup
+See [README Tech Stack](README.md#tech-stack) for manifest/lockfile versions. The frontend uses React 18, TypeScript 7, and Vite 6; the desktop shell is Tauri 2. The FastAPI sidecar uses the pinned packages in `sidecar/requirements.txt`.
+
+Use pnpm with `pnpm-lock.yaml`; no Node or pnpm version is enforced. Python 3.12 is the documented setup convention, not an enforced runtime pin. Create `sidecar/.venv` with that interpreter as shown in the README; the packaging script uses this environment.
 
 ## Build / Test / Run
 
@@ -39,13 +30,13 @@ See [README verification](README.md#verification) for repository-root fixture te
 - TypeScript strict — `unknown` + narrowing; no `any`, no `// @ts-ignore`
 - Kebab-case files, PascalCase components, snake_case Python
 - Conventional commits: `feat:`, `fix:`, `chore:`, `data:`
-- Python: Black formatting, type hints on all signatures
+- Python: type hints on all signatures; Black is a style preference, but no formatter/linter/typecheck tooling is configured in the manifests
 - All FastAPI routes return typed Pydantic response models
 - Parameterized queries only — no raw SQL string concatenation
 
 ## Constraints
 
-- **API credentials**: store Adzuna `app_id` / `app_key` via `tauri-plugin-store` backed by macOS Keychain; never in `.env` files or source code
+- **API credentials**: store Adzuna `app_id` / `app_key` via `tauri-plugin-store` in credentials.json in the app data directory; never in `.env` files or source code
 - **Scope gate**: implement only phases defined in IMPLEMENTATION-ROADMAP.md; no scope additions without updating it first
 - **FastAPI calls**: gate behind button or scheduler callback — do not call from `useEffect` on mount without user action
 - **Data use**: personal use only per Adzuna ToS; no commercial aggregation or distribution
@@ -72,28 +63,15 @@ See IMPLEMENTATION-ROADMAP.md for full phase details and acceptance criteria.
 
 ## Stack
 
-- **Tauri 2** — desktop shell, sidecar lifecycle management, OS keychain for API credentials
-- **React 18 + TypeScript** — frontend (strict mode, hooks only, no class components)
-- **Vite 5** — frontend build tooling
-- **Recharts 3** — bar charts, box plots, trend lines
-- **Leaflet.js 1.9 + react-leaflet 4** — geographic heatmap
-- **vis-network 10** — skill co-occurrence force graph (NOT D3 — vis-network is simpler for this use case)
-- **FastAPI 0.115** — Python HTTP API, runs as PyInstaller sidecar on localhost:8008
-- **SQLite 3** — via Python `sqlite3` stdlib, single DB file at `~/.job-market-heatmap/data.db`
-- **spaCy 3.8 + en_core_web_sm** — NLP pipeline for skill extraction
-- **APScheduler 3.11** — in-process nightly cron inside FastAPI sidecar
-- **PyInstaller 6** — bundles Python + all deps into single binary for Tauri sidecar
-- **tauri-plugin-store** — API key storage via Tauri store (credentials.json in app data dir); hydrated to sidecar memory at startup
+See [README Tech Stack](README.md#tech-stack) for current dependency versions and [README prerequisites](README.md#prerequisites) for Node, pnpm, and Python setup policy.
 
 ## How To Run
 
-```bash
-pnpm tauri dev
-```
+Follow [README installation](README.md#installation) first, then [desktop development](README.md#desktop-run-separate-integration-lane), including building the host-specific sidecar binary before running the desktop app.
 
 ## Known Risks
 
-- Do not store Adzuna `app_id` or `app_key` in `.env` files or source code — use `tauri-plugin-store` backed by macOS Keychain
+- Do not store Adzuna `app_id` or `app_key` in `.env` files or source code — use `tauri-plugin-store` in the app data directory
 - Do not add features outside the current phase in IMPLEMENTATION-ROADMAP.md
 - Do not use class components — hooks only in React
 - Do not call FastAPI from `useEffect` on mount without user action — gate behind button or scheduler callback
