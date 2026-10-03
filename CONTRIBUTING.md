@@ -14,12 +14,12 @@ Open a [GitHub Issue](../../issues/new) with:
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feat/your-feature`)
 3. Make your changes with clear commit messages
-4. Run existing tests to ensure nothing breaks
+4. Run the relevant [verification checks](README.md#verification) and report results or unavailable prerequisites
 5. Open a PR with a description of what changed and why
 
 ## Development Setup
 
-See the README for installation and setup instructions.
+See [README installation](README.md#installation) and [verification](README.md#verification) for the repository-root environment and commands.
 
 ## Code Style
 

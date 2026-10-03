@@ -19,12 +19,7 @@ Local Tauri 2 desktop app — ingests job postings from Adzuna API, extracts ski
 
 ## Build / Test / Run
 
-```bash
-pnpm tauri dev          # full dev (frontend + Rust + sidecar)
-pnpm build              # tsc && vite build (frontend only)
-python -m pytest tests/ -v   # Python sidecar tests
-ruff check src/ tests/       # Python lint
-```
+See [README verification](README.md#verification) for repository-root fixture tests, frontend build/typecheck, Rust formatting, prerequisites, and conditional browser checks. Use the documented `sidecar/.venv` environment. [Desktop development](README.md#desktop-run-separate-integration-lane) starts the sidecar/database/scheduler and is a separate integration lane.
 
 ## Key Decisions
 
