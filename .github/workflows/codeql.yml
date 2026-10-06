@@ -2,9 +2,9 @@ name: CodeQL
 
 on:
   push:
-    branches: ["feat/full-build"]
+    branches: ["feat/full-build", "main"]
   pull_request:
-    branches: ["feat/full-build"]
+    branches: ["feat/full-build", "main"]
   workflow_dispatch:
   schedule:
     - cron: "24 11 * * 1"
